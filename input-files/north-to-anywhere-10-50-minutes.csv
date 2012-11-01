@@ -1,0 +1,208 @@
+"From (train)","House Price","To (train)","Train time","Changes","Frequency","From (tube)","To (tube)","Tube time","Total time"
+"Alexandra Palace","ﾣ397647","London Bridge",00:27:00,1,"every 00:05",,,,00:27:00
+"Alexandra Palace","ﾣ397647","Blackfriars",00:34:00,1,"every 00:06",,,,00:34:00
+"Amersham","ﾣ445810","Marylebone",00:39:00,0,"every 00:16",,,,00:39:00
+"Apsley","ﾣ297557","Euston",00:27:00,0,"every 00:24",,,,00:27:00
+"Arlesey","ﾣ251158","Kings Cross",00:34:00,0,"every 00:30",,,,00:34:00
+"Arlesey","ﾣ251158","Moorgate",00:50:00,1,"every 00:45",,,,00:50:00
+"Ashwell & Morden","ﾣ274579","Kings Cross",00:42:00,0,"every 00:15",,,,00:42:00
+"Baldock","ﾣ276503","Kings Cross",00:37:00,0,"every 00:15",,,,00:37:00
+"Bayford","ﾣ315825","Moorgate",00:44:00,0,"every 00:21",,,,00:44:00
+"Bayford","ﾣ315825","Kings Cross",00:46:00,1,"every 00:21",,,,00:46:00
+"Berkhamsted","ﾣ297557","Euston",00:33:00,0,"every 00:14",,,,00:33:00
+"Biggleswade","ﾣ251158","Kings Cross",00:35:00,0,"every 00:22",,,,00:35:00
+"Billericay","ﾣ223030","Liverpool Street",00:34:00,0,"every 00:08",,,,00:34:00
+"Bishops Stortford","ﾣ315825","Liverpool Street",00:38:00,0,"every 00:07",,,,00:38:00
+"Bletchley","ﾣ207124","Euston",00:45:00,0,"every 00:11",,,,00:45:00
+"Bowes Park","ﾣ397647","London Bridge",00:28:00,1,"every 00:08",,,,00:28:00
+"Bowes Park","ﾣ397647","Blackfriars",00:36:00,1,"every 00:09",,,,00:36:00
+"Brentwood","ﾣ362574","Liverpool Street",00:38:00,0,"every 00:04",,,,00:38:00
+"Bricket Wood","ﾣ436361","Euston",00:34:00,1,"every 00:42",,,,00:34:00
+"Brondesbury","ﾣ362968","Euston",00:34:00,1,"every 00:09",,,,00:34:00
+"Brondesbury Park","ﾣ362968","Euston",00:33:00,1,"every 00:09",,,,00:33:00
+"Brookmans Park","ﾣ326487","Kings Cross",00:35:00,1,"every 00:14",,,,00:35:00
+"Brookmans Park","ﾣ326487","Moorgate",00:35:00,0,"every 00:15",,,,00:35:00
+"Brookmans Park","ﾣ326487","London Bridge",00:42:00,1,"every 00:15",,,,00:42:00
+"Brookmans Park","ﾣ326487","Blackfriars",00:50:00,1,"every 00:16",,,,00:50:00
+"Broxbourne","ﾣ251727","Liverpool Street",00:32:00,0,"every 00:08",,,,00:32:00
+"Bush Hill Park","ﾣ285581","Liverpool Street",00:34:00,0,"every 00:15",,,,00:34:00
+"Camden Road","ﾣ727184","Euston",00:25:00,1,"every 00:05",,,,00:25:00
+"Carpenders Park","ﾣ381603","Euston",00:26:00,0,"every 00:20",,,,00:26:00
+"Chalfont & Latimer","ﾣ445810","Marylebone",00:35:00,0,"every 00:21",,,,00:35:00
+"Cheddington","ﾣ278450","Euston",00:43:00,0,"every 00:21",,,,00:43:00
+"Chelmsford (Essex)","ﾣ256461","Liverpool Street",00:37:00,0,"every 00:07",,,,00:37:00
+"Cheshunt","ﾣ251727","Liverpool Street",00:27:00,0,"every 00:08",,,,00:27:00
+"Chingford","ﾣ234134","Liverpool Street",00:29:00,0,"every 00:15",,,,00:29:00
+"Chorleywood","ﾣ381603","Marylebone",00:32:00,0,"every 00:27",,,,00:32:00
+"Crews Hill","ﾣ285581","Moorgate",00:36:00,0,"every 00:17",,,,00:36:00
+"Crews Hill","ﾣ285581","Kings Cross",00:38:00,1,"every 00:17",,,,00:38:00
+"Crews Hill","ﾣ285581","London Bridge",00:43:00,1,"every 00:17",,,,00:43:00
+"Cricklewood","ﾣ440664","Kings Cross",00:27:00,1,"every 00:18",,,,00:27:00
+"Cricklewood","ﾣ440664","Moorgate",00:32:00,1,"every 00:18",,,,00:32:00
+"Cricklewood","ﾣ440664","London Bridge",00:34:00,1,"every 00:18",,,,00:34:00
+"Crouch Hill","ﾣ485553","Euston",00:41:00,1,"every 00:07",,,,00:41:00
+"Cuffley","ﾣ326487","Moorgate",00:35:00,0,"every 00:07",,,,00:35:00
+"Cuffley","ﾣ326487","Kings Cross",00:36:00,1,"every 00:07",,,,00:36:00
+"Cuffley","ﾣ326487","London Bridge",00:42:00,1,"every 00:07",,,,00:42:00
+"Cuffley","ﾣ326487","Blackfriars",00:49:00,1,"every 00:08",,,,00:49:00
+"Dalston Kingsland","ﾣ321701","Euston",00:26:00,1,"every 00:05",,,,00:26:00
+"Denham Golf Club","ﾣ560320","Marylebone",00:29:00,0,"every 00:33",,,,00:29:00
+"Drayton Park","ﾣ485553","Blackfriars",00:27:00,1,"every 00:05",,,,00:27:00
+"Elstree & Borehamwood","ﾣ378894","Blackfriars",00:31:00,0,"every 00:09",,,,00:31:00
+"Elstree & Borehamwood","ﾣ378894","Kings Cross",00:34:00,1,"every 00:09",,,,00:34:00
+"Elstree & Borehamwood","ﾣ378894","Moorgate",00:40:00,1,"every 00:09",,,,00:40:00
+"Elstree & Borehamwood","ﾣ378894","London Bridge",00:43:00,1,"every 00:11",,,,00:43:00
+"Enfield Chase","ﾣ285581","Moorgate",00:28:00,0,"every 00:07",,,,00:28:00
+"Enfield Chase","ﾣ285581","Kings Cross",00:29:00,1,"every 00:06",,,,00:29:00
+"Enfield Chase","ﾣ285581","London Bridge",00:35:00,1,"every 00:06",,,,00:35:00
+"Enfield Chase","ﾣ285581","Blackfriars",00:43:00,1,"every 00:07",,,,00:43:00
+"Enfield Lock","ﾣ285581","Liverpool Street",00:26:00,0,"every 00:12",,,,00:26:00
+"Enfield Town","ﾣ285581","Liverpool Street",00:37:00,0,"every 00:15",,,,00:37:00
+"Finchley Road & Frognal","ﾣ727184","Euston",00:35:00,1,"every 00:05",,,,00:35:00
+"Finsbury Park","ﾣ485553","Blackfriars",00:29:00,1,"every 00:05",,,,00:29:00
+"Garston (Hertfordshire)","ﾣ244500","Euston",00:31:00,1,"every 00:42",,,,00:31:00
+"Gordon Hill","ﾣ285581","Moorgate",00:30:00,0,"every 00:07",,,,00:30:00
+"Gordon Hill","ﾣ285581","Kings Cross",00:32:00,1,"every 00:07",,,,00:32:00
+"Gordon Hill","ﾣ285581","London Bridge",00:37:00,1,"every 00:07",,,,00:37:00
+"Gordon Hill","ﾣ285581","Blackfriars",00:45:00,1,"every 00:07",,,,00:45:00
+"Gospel Oak","ﾣ727184","Euston",00:32:00,1,"every 00:07",,,,00:32:00
+"Grange Park","ﾣ285581","Moorgate",00:28:00,0,"every 00:10",,,,00:28:00
+"Grange Park","ﾣ285581","Kings Cross",00:30:00,1,"every 00:12",,,,00:30:00
+"Grange Park","ﾣ285581","London Bridge",00:35:00,1,"every 00:12",,,,00:35:00
+"Grange Park","ﾣ285581","Blackfriars",00:43:00,1,"every 00:12",,,,00:43:00
+"Great Missenden","ﾣ445810","Marylebone",00:45:00,0,"every 00:16",,,,00:45:00
+"Haddenham & Thame Parkway","ﾣ278450","Marylebone",00:44:00,0,"every 00:20",,,,00:44:00
+"Hadley Wood","ﾣ285581","Kings Cross",00:28:00,1,"every 00:15",,,,00:28:00
+"Hadley Wood","ﾣ285581","Moorgate",00:28:00,0,"every 00:15",,,,00:28:00
+"Hadley Wood","ﾣ285581","London Bridge",00:35:00,1,"every 00:15",,,,00:35:00
+"Hadley Wood","ﾣ285581","Blackfriars",00:43:00,1,"every 00:15",,,,00:43:00
+"Hampstead Heath","ﾣ727184","Euston",00:34:00,1,"every 00:07",,,,00:34:00
+"Harlow Mill","ﾣ181305","Liverpool Street",00:44:00,0,"every 00:21",,,,00:44:00
+"Harlow Town","ﾣ181305","Liverpool Street",00:33:00,0,"every 00:09",,,,00:33:00
+"Harpenden","ﾣ436361","Blackfriars",00:36:00,0,"every 00:08",,,,00:36:00
+"Harpenden","ﾣ436361","Kings Cross",00:39:00,1,"every 00:08",,,,00:39:00
+"Harpenden","ﾣ436361","London Bridge",00:45:00,0,"every 00:12",,,,00:45:00
+"Harpenden","ﾣ436361","Moorgate",00:45:00,1,"every 00:09",,,,00:45:00
+"Harringay","ﾣ397647","Blackfriars",00:31:00,1,"every 00:09",,,,00:31:00
+"Harringay Green Lanes","ﾣ397647","Euston",00:35:00,2,"every 00:05",,,,00:35:00
+"Hatch End","ﾣ339704","Euston",00:27:00,0,"every 00:20",,,,00:27:00
+"Hatfield (Hertfordshire)","ﾣ326487","Kings Cross",00:26:00,0,"every 00:12",,,,00:26:00
+"Hatfield (Hertfordshire)","ﾣ326487","Moorgate",00:37:00,0,"every 00:07",,,,00:37:00
+"Hatfield (Hertfordshire)","ﾣ326487","London Bridge",00:44:00,1,"every 00:07",,,,00:44:00
+"Hatfield Peverel","ﾣ223590","Liverpool Street",00:43:00,0,"every 00:33",,,,00:43:00
+"Headstone Lane","ﾣ339704","Euston",00:25:00,0,"every 00:20",,,,00:25:00
+"Hemel Hempstead","ﾣ297557","Euston",00:28:00,0,"every 00:14",,,,00:28:00
+"Hendon","ﾣ440664","Blackfriars",00:27:00,0,"every 00:18",,,,00:27:00
+"Hendon","ﾣ440664","Kings Cross",00:31:00,1,"every 00:18",,,,00:31:00
+"Hendon","ﾣ440664","Moorgate",00:36:00,1,"every 00:18",,,,00:36:00
+"Hendon","ﾣ440664","London Bridge",00:38:00,1,"every 00:18",,,,00:38:00
+"Hertford East","ﾣ315825","Liverpool Street",00:50:00,0,"every 00:28",,,,00:50:00
+"Hertford North","ﾣ315825","Moorgate",00:42:00,0,"every 00:07",,,,00:42:00
+"Hertford North","ﾣ315825","Kings Cross",00:44:00,1,"every 00:07",,,,00:44:00
+"Hertford North","ﾣ315825","London Bridge",00:49:00,1,"every 00:07",,,,00:49:00
+"High Wycombe","ﾣ336456","Marylebone",00:30:00,0,"every 00:14",,,,00:30:00
+"Highams Park","ﾣ234134","Liverpool Street",00:25:00,0,"every 00:15",,,,00:25:00
+"Highbury & Islington","ﾣ485553","Blackfriars",00:25:00,1,"every 00:05",,,,00:25:00
+"Hitchin","ﾣ276503","Kings Cross",00:29:00,0,"every 00:07",,,,00:29:00
+"Hitchin","ﾣ276503","Moorgate",00:44:00,1,"every 00:13",,,,00:44:00
+"Hornsey","ﾣ397647","London Bridge",00:25:00,1,"every 00:05",,,,00:25:00
+"Hornsey","ﾣ397647","Blackfriars",00:33:00,1,"every 00:09",,,,00:33:00
+"How Wood (Hertfordshire)","ﾣ436361","Euston",00:37:00,1,"every 00:42",,,,00:37:00
+"Huntingdon","ﾣ212991","Kings Cross",00:50:00,0,"every 00:15",,,,00:50:00
+"Ingatestone","ﾣ362574","Liverpool Street",00:31:00,0,"every 00:18",,,,00:31:00
+"Kelvedon","ﾣ223590","Liverpool Street",00:50:00,0,"every 00:12",,,,00:50:00
+"Kensal Rise","ﾣ362968","Euston",00:28:00,1,"every 00:10",,,,00:28:00
+"Kentish Town","ﾣ727184","Moorgate",00:25:00,1,"every 00:18",,,,00:25:00
+"Kentish Town","ﾣ727184","London Bridge",00:27:00,1,"every 00:19",,,,00:27:00
+"Kentish Town West","ﾣ727184","Euston",00:30:00,1,"every 00:07",,,,00:30:00
+"Kings Cross","ﾣ727184","Blackfriars",00:28:00,1,"every 00:04",,,,00:28:00
+"Knebworth","ﾣ276503","Moorgate",00:35:00,1,"every 00:17",,,,00:35:00
+"Knebworth","ﾣ276503","London Bridge",00:42:00,1,"every 00:20",,,,00:42:00
+"Leagrave","ﾣ160122","Blackfriars",00:48:00,0,"every 00:08",,,,00:48:00
+"Leighton Buzzard","ﾣ175100","Euston",00:32:00,0,"every 00:14",,,,00:32:00
+"Letchworth Garden City","ﾣ276503","Kings Cross",00:33:00,0,"every 00:08",,,,00:33:00
+"Letchworth Garden City","ﾣ276503","Moorgate",00:49:00,1,"every 00:12",,,,00:49:00
+"Luton","ﾣ160122","Blackfriars",00:42:00,0,"every 00:08",,,,00:42:00
+"Luton","ﾣ160122","Kings Cross",00:44:00,1,"every 00:06",,,,00:44:00
+"Luton Airport Parkway","ﾣ160122","Kings Cross",00:42:00,1,"every 00:08",,,,00:42:00
+"Luton Airport Parkway","ﾣ160122","Blackfriars",00:43:00,0,"every 00:08",,,,00:43:00
+"Meldreth","ﾣ274579","Kings Cross",00:49:00,0,"every 00:38",,,,00:49:00
+"Mill Hill Broadway","ﾣ440664","Blackfriars",00:27:00,0,"every 00:09",,,,00:27:00
+"Mill Hill Broadway","ﾣ440664","Kings Cross",00:30:00,1,"every 00:09",,,,00:30:00
+"Mill Hill Broadway","ﾣ440664","Moorgate",00:36:00,1,"every 00:09",,,,00:36:00
+"Mill Hill Broadway","ﾣ440664","London Bridge",00:39:00,1,"every 00:11",,,,00:39:00
+"Milton Keynes Central","ﾣ207124","Euston",00:35:00,0,"every 00:14",,,,00:35:00
+"New Barnet","ﾣ440664","Moorgate",00:25:00,0,"every 00:10",,,,00:25:00
+"New Barnet","ﾣ440664","London Bridge",00:32:00,1,"every 00:11",,,,00:32:00
+"New Barnet","ﾣ440664","Blackfriars",00:40:00,1,"every 00:10",,,,00:40:00
+"New Southgate","ﾣ285581","London Bridge",00:27:00,1,"every 00:11",,,,00:27:00
+"New Southgate","ﾣ285581","Blackfriars",00:35:00,1,"every 00:10",,,,00:35:00
+"North Wembley","ﾣ362968","Euston",00:25:00,0,"every 00:06",,,,00:25:00
+"Northampton","ﾣ157926","Euston",00:48:00,0,"every 00:20",,,,00:48:00
+"Oakleigh Park","ﾣ440664","London Bridge",00:30:00,1,"every 00:11",,,,00:30:00
+"Oakleigh Park","ﾣ440664","Blackfriars",00:38:00,1,"every 00:10",,,,00:38:00
+"Palmers Green","ﾣ285581","London Bridge",00:30:00,1,"every 00:08",,,,00:30:00
+"Palmers Green","ﾣ285581","Blackfriars",00:37:00,1,"every 00:06",,,,00:37:00
+"Park Street","ﾣ436361","Euston",00:39:00,1,"every 00:42",,,,00:39:00
+"Potters Bar","ﾣ378894","Kings Cross",00:25:00,0,"every 00:13",,,,00:25:00
+"Potters Bar","ﾣ378894","Moorgate",00:32:00,0,"every 00:10",,,,00:32:00
+"Potters Bar","ﾣ378894","London Bridge",00:39:00,1,"every 00:10",,,,00:39:00
+"Potters Bar","ﾣ378894","Blackfriars",00:47:00,1,"every 00:10",,,,00:47:00
+"Princes Risborough","ﾣ336456","Marylebone",00:36:00,0,"every 00:17",,,,00:36:00
+"Radlett","ﾣ378894","Blackfriars",00:35:00,0,"every 00:08",,,,00:35:00
+"Radlett","ﾣ378894","Kings Cross",00:38:00,1,"every 00:08",,,,00:38:00
+"Radlett","ﾣ378894","Moorgate",00:44:00,1,"every 00:08",,,,00:44:00
+"Radlett","ﾣ378894","London Bridge",00:47:00,1,"every 00:10",,,,00:47:00
+"Rickmansworth","ﾣ339704","Marylebone",00:27:00,0,"every 01:04",,,,00:27:00
+"Roydon","ﾣ315825","Liverpool Street",00:36:00,0,"every 00:18",,,,00:36:00
+"Royston","ﾣ276503","Kings Cross",00:38:00,0,"every 00:11",,,,00:38:00
+"Rugby","ﾣ191554","Euston",00:49:00,0,"every 00:20",,,,00:49:00
+"Rye House","ﾣ251727","Liverpool Street",00:39:00,0,"every 00:28",,,,00:39:00
+"Sandy","ﾣ251158","Kings Cross",00:43:00,0,"every 00:20",,,,00:43:00
+"Saunderton","ﾣ336456","Marylebone",00:42:00,0,"every 00:22",,,,00:42:00
+"Sawbridgeworth","ﾣ341969","Liverpool Street",00:39:00,0,"every 00:15",,,,00:39:00
+"Seer Green","ﾣ445810","Marylebone",00:28:00,0,"every 00:26",,,,00:28:00
+"Shenfield","ﾣ362574","Liverpool Street",00:29:00,0,"every 00:05",,,,00:29:00
+"Silver Street","ﾣ285581","Liverpool Street",00:26:00,0,"every 00:10",,,,00:26:00
+"South Tottenham","ﾣ397647","Euston",00:39:00,1,"every 00:11",,,,00:39:00
+"Southbury","ﾣ285581","Liverpool Street",00:31:00,0,"every 00:27",,,,00:31:00
+"St Albans","ﾣ436361","Blackfriars",00:30:00,0,"every 00:08",,,,00:30:00
+"St Albans","ﾣ436361","Kings Cross",00:32:00,1,"every 00:08",,,,00:32:00
+"St Albans","ﾣ436361","London Bridge",00:38:00,0,"every 00:12",,,,00:38:00
+"St Albans","ﾣ436361","Moorgate",00:39:00,1,"every 00:09",,,,00:39:00
+"St Albans Abbey","ﾣ436361","Euston",00:42:00,1,"every 00:21",,,,00:42:00
+"St Margarets (Herts)","ﾣ315825","Liverpool Street",00:42:00,0,"every 00:28",,,,00:42:00
+"St Neots","ﾣ212991","Kings Cross",00:43:00,0,"every 00:14",,,,00:43:00
+"Stansted Mountfitchet","ﾣ345328","Liverpool Street",00:47:00,0,"every 00:19",,,,00:47:00
+"Stevenage","ﾣ183261","Moorgate",00:39:00,1,"every 00:13",,,,00:39:00
+"Stevenage","ﾣ183261","London Bridge",00:46:00,2,"every 00:13",,,,00:46:00
+"Theobalds Grove","ﾣ251727","Liverpool Street",00:38:00,0,"every 00:15",,,,00:38:00
+"Tring","ﾣ297557","Euston",00:37:00,0,"every 00:14",,,,00:37:00
+"Turkey Street","ﾣ285581","Liverpool Street",00:34:00,0,"every 00:27",,,,00:34:00
+"Upper Holloway","ﾣ485553","Euston",00:44:00,1,"every 00:07",,,,00:44:00
+"Waltham Cross","ﾣ251727","Liverpool Street",00:28:00,0,"every 00:13",,,,00:28:00
+"Ware (Herts)","ﾣ315825","Liverpool Street",00:46:00,0,"every 00:28",,,,00:46:00
+"Watford High Street","ﾣ244500","Euston",00:31:00,1,"every 00:15",,,,00:31:00
+"Watford North","ﾣ244500","Euston",00:29:00,1,"every 00:42",,,,00:29:00
+"Watton-at-Stone","ﾣ315825","Moorgate",00:48:00,0,"every 00:24",,,,00:48:00
+"Watton-at-Stone","ﾣ315825","Kings Cross",00:50:00,1,"every 00:24",,,,00:50:00
+"Welham Green","ﾣ326487","Kings Cross",00:37:00,1,"every 00:13",,,,00:37:00
+"Welham Green","ﾣ326487","Moorgate",00:37:00,0,"every 00:15",,,,00:37:00
+"Welham Green","ﾣ326487","London Bridge",00:44:00,1,"every 00:15",,,,00:44:00
+"Welwyn Garden City","ﾣ326487","Moorgate",00:34:00,0,"every 00:10",,,,00:34:00
+"Welwyn Garden City","ﾣ326487","London Bridge",00:41:00,1,"every 00:11",,,,00:41:00
+"Welwyn Garden City","ﾣ326487","Blackfriars",00:49:00,1,"every 00:11",,,,00:49:00
+"Welwyn North","ﾣ326487","Moorgate",00:38:00,1,"every 00:18",,,,00:38:00
+"Welwyn North","ﾣ326487","London Bridge",00:45:00,1,"every 00:20",,,,00:45:00
+"West Hampstead","ﾣ727184","Blackfriars",00:30:00,1,"every 00:18",,,,00:30:00
+"West Hampstead","ﾣ727184","Kings Cross",00:32:00,1,"every 00:05",,,,00:32:00
+"West Hampstead","ﾣ727184","Moorgate",00:39:00,2,"every 00:11",,,,00:39:00
+"West Ruislip","ﾣ286335","Marylebone",00:25:00,0,"every 00:50",,,,00:25:00
+"Winchmore Hill","ﾣ285581","Kings Cross",00:26:00,1,"every 00:08",,,,00:26:00
+"Winchmore Hill","ﾣ285581","Moorgate",00:26:00,0,"every 00:08",,,,00:26:00
+"Winchmore Hill","ﾣ285581","London Bridge",00:32:00,1,"every 00:08",,,,00:32:00
+"Winchmore Hill","ﾣ285581","Blackfriars",00:39:00,1,"every 00:06",,,,00:39:00
+"Witham","ﾣ223590","Liverpool Street",00:45:00,0,"every 00:06",,,,00:45:00
+"Wolverton","ﾣ207124","Euston",00:44:00,0,"every 00:20",,,,00:44:00
+,,,,,,,,,
+"Data exported from commutefrom.com",,,,,,,,,
