@@ -1,4 +1,4 @@
-class CSVParser
+class InputCsvParser
   def parse(file_name)
 
     f = File.open(file_name)

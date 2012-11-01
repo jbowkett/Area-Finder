@@ -2,10 +2,10 @@ $LOAD_PATH << File.join(File.dirname(__FILE__), "..")
 require 'bundler'
 require 'scrapi'
 require 'lib/area'
-require 'lib/csv_parser'
+require 'lib/input_csv_parser'
 
 
-parser = CSVParser.new
+parser = InputCsvParser.new
 
 areas = parser.parse 'input-files/north-to-anywhere-10-50-minutes.csv'
 
