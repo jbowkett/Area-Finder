@@ -5,7 +5,6 @@ require 'lib/area'
 require 'lib/csv_parser'
 
 
-
 parser = CSVParser.new
 
 areas = parser.parse 'input-files/north-to-anywhere-10-50-minutes.csv'
