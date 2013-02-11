@@ -12,7 +12,7 @@ class InputCsvParser
 
       line_number += 1
 
-      next if line_number == 1
+      next if line_number == 1 || line.strip.length == 0 || line =~ /.*commutefrom.com.*/
 
       line_segments = line.split ','
       area = line_segments[0]
