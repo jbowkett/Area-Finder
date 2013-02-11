@@ -1,0 +1,704 @@
+From (train),House Price,To (train),Train time,Changes,Frequency,From (tube),To (tube),Tube time,Total time
+Abbey Wood,231053,London Bridge,00:24,0,every 00:06,,,,00:24
+Abbey Wood,231053,Cannon Street,00:31,0,every 00:10,,,,00:31
+Abbey Wood,231053,Waterloo,00:39,1,every 00:07,,,,00:39
+Abbey Wood,231053,Charing Cross,00:41,0,every 00:10,,,,00:41
+Abbey Wood,231053,Blackfriars,00:42,1,every 00:06,,,,00:42
+Abbey Wood,231053,Victoria,00:58,1,every 00:06,,,,00:58
+Albany Park,231053,London Bridge,00:21,0,every 00:20,,,,00:21
+Albany Park,231053,Waterloo,00:31,1,every 00:20,,,,00:31
+Albany Park,231053,Charing Cross,00:32,0,every 00:20,,,,00:32
+Albany Park,231053,Cannon Street,00:39,0,every 00:10,,,,00:39
+Albany Park,231053,Victoria,00:49,1,every 00:10,,,,00:49
+Albany Park,231053,Blackfriars,00:52,1,every 00:12,,,,00:52
+Anerley,347974,London Bridge,00:23,0,every 00:15,,,,00:23
+Anerley,347974,Victoria,00:30,1,every 00:09,,,,00:30
+Anerley,347974,Moorgate,00:41,1,every 00:11,,,,00:41
+Anerley,347974,Waterloo,00:42,1,every 00:07,,,,00:42
+Anerley,347974,Charing Cross,00:43,1,every 00:12,,,,00:43
+Anerley,347974,Blackfriars,00:44,1,every 00:07,,,,00:44
+Anerley,347974,Kings Cross,00:45,1,every 00:11,,,,00:45
+Ashford International,257530,St Pancras,00:36,0,every 00:37,,,,00:36
+Ashurst,374023,London Bridge,00:52,0,every 00:00,,,,00:52
+Barking,181148,Fenchurch Street,00:16,0,every 00:04,,,,00:16
+Barnehurst,231053,London Bridge,00:30,0,every 00:10,,,,00:30
+Barnehurst,231053,Cannon Street,00:37,0,every 00:18,,,,00:37
+Barnehurst,231053,Waterloo,00:39,1,every 00:11,,,,00:39
+Barnehurst,231053,Charing Cross,00:40,0,every 00:11,,,,00:40
+Barnehurst,231053,Victoria,00:45,0,every 00:16,,,,00:45
+Barnehurst,231053,Blackfriars,00:57,1,every 00:05,,,,00:57
+Basildon,235205,Fenchurch Street,00:33,0,every 00:12,,,,00:33
+Bat & Ball,448336,London Bridge,00:32,1,every 00:23,,,,00:32
+Bat & Ball,448336,Cannon Street,00:40,1,every 00:23,,,,00:40
+Bat & Ball,448336,Waterloo,00:42,2,every 00:19,,,,00:42
+Bat & Ball,448336,Charing Cross,00:43,1,every 00:19,,,,00:43
+Bat & Ball,448336,Blackfriars,00:49,0,every 00:17,,,,00:49
+Bat & Ball,448336,Victoria,00:55,1,every 00:14,,,,00:55
+Battlesbridge,267118,Liverpool Street,00:47,0,every 00:42,,,,00:47
+Beckenham Hill,298892,Blackfriars,00:25,0,every 00:16,,,,00:25
+Beckenham Hill,298892,Victoria,00:27,1,every 00:17,,,,00:27
+Beckenham Hill,298892,London Bridge,00:28,1,every 00:23,,,,00:28
+Beckenham Hill,298892,Waterloo,00:38,1,every 00:23,,,,00:38
+Beckenham Hill,298892,Charing Cross,00:39,1,every 00:23,,,,00:39
+Beckenham Hill,298892,Cannon Street,00:46,2,every 00:14,,,,00:46
+Beckenham Junction,347974,Victoria,00:22,0,every 00:12,,,,00:22
+Beckenham Junction,347974,Blackfriars,00:24,0,every 00:11,,,,00:24
+Beckenham Junction,347974,London Bridge,00:35,0,every 00:09,,,,00:35
+Beckenham Junction,347974,Charing Cross,00:37,1,every 00:15,,,,00:37
+Beckenham Junction,347974,Waterloo,00:39,1,every 00:15,,,,00:39
+Beckenham Junction,347974,Cannon Street,00:52,1,every 00:04,,,,00:52
+Bellingham,298892,Blackfriars,00:23,0,every 00:16,,,,00:23
+Bellingham,298892,Victoria,00:25,1,every 00:18,,,,00:25
+Bellingham,298892,London Bridge,00:26,1,every 00:26,,,,00:26
+Bellingham,298892,Waterloo,00:36,1,every 00:26,,,,00:36
+Bellingham,298892,Charing Cross,00:37,1,every 00:26,,,,00:37
+Bellingham,298892,Cannon Street,00:43,2,every 00:18,,,,00:43
+Beltring,237054,London Bridge,00:51,1,every 00:34,,,,00:51
+Belvedere,231053,London Bridge,00:30,0,every 00:10,,,,00:30
+Belvedere,231053,Cannon Street,00:38,0,every 00:10,,,,00:38
+Belvedere,231053,Waterloo,00:43,1,every 00:10,,,,00:43
+Belvedere,231053,Charing Cross,00:44,0,every 00:20,,,,00:44
+Belvedere,231053,Blackfriars,00:47,1,every 00:10,,,,00:47
+Benfleet,199487,Fenchurch Street,00:40,0,every 00:07,,,,00:40
+Bexley,231053,London Bridge,00:24,0,every 00:15,,,,00:24
+Bexley,231053,Waterloo,00:34,1,every 00:20,,,,00:34
+Bexley,231053,Charing Cross,00:35,0,every 00:20,,,,00:35
+Bexley,231053,Cannon Street,00:42,0,every 00:09,,,,00:42
+Bexley,231053,Victoria,00:52,1,every 00:10,,,,00:52
+Bexley,231053,Blackfriars,00:55,1,every 00:10,,,,00:55
+Bexleyheath,231053,London Bridge,00:27,0,every 00:10,,,,00:27
+Bexleyheath,231053,Cannon Street,00:34,0,every 00:18,,,,00:34
+Bexleyheath,231053,Waterloo,00:36,1,every 00:11,,,,00:36
+Bexleyheath,231053,Charing Cross,00:37,0,every 00:11,,,,00:37
+Bexleyheath,231053,Victoria,00:43,0,every 00:16,,,,00:43
+Bexleyheath,231053,Blackfriars,00:55,1,every 00:05,,,,00:55
+Bickley,347974,London Bridge,00:29,1,every 00:13,,,,00:29
+Bickley,347974,Victoria,00:30,0,every 00:09,,,,00:30
+Bickley,347974,Blackfriars,00:33,0,every 00:07,,,,00:33
+Bickley,347974,Cannon Street,00:44,1,every 00:13,,,,00:44
+Bickley,347974,Charing Cross,00:46,1,every 00:08,,,,00:46
+Bickley,347974,Waterloo,00:47,1,every 00:05,,,,00:47
+Billericay,235205,Liverpool Street,00:34,0,every 00:08,,,,00:34
+Birkbeck,347974,Victoria,00:31,1,every 00:07,,,,00:31
+Birkbeck,347974,London Bridge,00:32,0,every 00:10,,,,00:32
+Birkbeck,347974,Charing Cross,00:48,1,every 00:04,,,,00:48
+Birkbeck,347974,Waterloo,00:50,2,every 00:03,,,,00:50
+Blackfriars,574032,Moorgate,00:21,1,every 00:04,,,,00:21
+Blackfriars,574032,Kings Cross,00:26,1,every 00:04,,,,00:26
+Blackheath,298892,Cannon Street,00:19,0,every 00:15,,,,00:19
+Blackheath,298892,Waterloo,00:20,1,every 00:11,,,,00:20
+Blackheath,298892,Charing Cross,00:21,0,every 00:11,,,,00:21
+Blackheath,298892,Victoria,00:27,0,every 00:16,,,,00:27
+Blackheath,298892,Blackfriars,00:39,1,every 00:05,,,,00:39
+Borough Green & Wrotham,309378,Victoria,00:49,0,every 00:13,,,,00:49
+Borough Green & Wrotham,309378,Blackfriars,00:50,0,every 00:19,,,,00:50
+Borough Green & Wrotham,309378,London Bridge,00:59,1,every 00:20,,,,00:59
+Brentwood,341139,Liverpool Street,00:38,0,every 00:04,,,,00:38
+Brockley,298892,Moorgate,00:29,1,every 00:07,,,,00:29
+Brockley,298892,Waterloo,00:30,1,every 00:05,,,,00:30
+Brockley,298892,Charing Cross,00:31,1,every 00:11,,,,00:31
+Brockley,298892,Blackfriars,00:32,1,every 00:07,,,,00:32
+Brockley,298892,Kings Cross,00:33,1,every 00:07,,,,00:33
+Brockley,298892,Victoria,00:40,0,every 00:06,,,,00:40
+Bromley North,347974,London Bridge,00:22,1,every 00:22,,,,00:22
+Bromley North,347974,Cannon Street,00:29,1,every 00:22,,,,00:29
+Bromley North,347974,Waterloo,00:34,2,every 00:13,,,,00:34
+Bromley North,347974,Charing Cross,00:35,1,every 00:13,,,,00:35
+Bromley North,347974,Victoria,00:41,1,every 00:06,,,,00:41
+Bromley North,347974,Blackfriars,00:48,1,every 00:07,,,,00:48
+Bromley South,347974,Victoria,00:23,0,every 00:06,,,,00:23
+Bromley South,347974,Blackfriars,00:30,0,every 00:07,,,,00:30
+Bromley South,347974,London Bridge,00:36,1,every 00:04,,,,00:36
+Bromley South,347974,Charing Cross,00:42,1,every 00:04,,,,00:42
+Bromley South,347974,Waterloo,00:43,1,every 00:06,,,,00:43
+Bromley South,347974,Cannon Street,00:47,1,every 00:05,,,,00:47
+Cannon Street,574032,Victoria,00:15,0,every 00:11,,,,00:15
+Cannon Street,574032,Waterloo,00:22,0,every 00:04,,,,00:22
+Cannon Street,574032,Blackfriars,00:33,1,every 00:04,,,,00:33
+Canterbury West,238755,St Pancras,00:59,0,every 00:33,,,,00:59
+Catford,298892,Blackfriars,00:20,0,every 00:16,,,,00:20
+Catford,298892,Victoria,00:22,1,every 00:13,,,,00:22
+Catford,298892,London Bridge,00:25,1,every 00:10,,,,00:25
+Catford,298892,Cannon Street,00:29,1,every 00:17,,,,00:29
+Catford,298892,Waterloo,00:29,1,every 00:10,,,,00:29
+Catford,298892,Charing Cross,00:30,1,every 00:06,,,,00:30
+Catford Bridge,298892,London Bridge,00:18,0,every 00:10,,,,00:18
+Catford Bridge,298892,Cannon Street,00:21,0,every 00:17,,,,00:21
+Catford Bridge,298892,Waterloo,00:21,1,every 00:14,,,,00:21
+Catford Bridge,298892,Charing Cross,00:22,0,every 00:14,,,,00:22
+Catford Bridge,298892,Blackfriars,00:28,1,every 00:12,,,,00:28
+Catford Bridge,298892,Victoria,00:30,1,every 00:10,,,,00:30
+Chadwell Heath,316019,Liverpool Street,00:23,0,every 00:03,,,,00:23
+Chafford Hundred,182331,Fenchurch Street,00:36,0,every 00:19,,,,00:36
+Chalkwell,209540,Fenchurch Street,00:48,0,every 00:07,,,,00:48
+Charlton,298130,Cannon Street,00:18,0,every 00:10,,,,00:18
+Charlton,298130,Waterloo,00:28,1,every 00:08,,,,00:28
+Charlton,298130,Charing Cross,00:29,0,every 00:10,,,,00:29
+Charlton,298130,Blackfriars,00:42,1,every 00:05,,,,00:42
+Charlton,298130,Victoria,00:43,1,every 00:07,,,,00:43
+Chatham,174947,London Bridge,00:41,0,every 00:21,,,,00:41
+Chatham,174947,Cannon Street,00:48,0,every 00:24,,,,00:48
+Chatham,174947,Victoria,00:53,0,every 00:11,,,,00:53
+Chelmsford (Essex),267118,Liverpool Street,00:37,0,every 00:07,,,,00:37
+Chelsfield,347974,London Bridge,00:17,0,every 00:15,,,,00:17
+Chelsfield,347974,Waterloo,00:27,1,every 00:21,,,,00:27
+Chelsfield,347974,Charing Cross,00:28,0,every 00:21,,,,00:28
+Chelsfield,347974,Cannon Street,00:34,0,every 00:21,,,,00:34
+Chelsfield,347974,Victoria,00:45,1,every 00:16,,,,00:45
+Chelsfield,347974,Blackfriars,00:48,1,every 00:21,,,,00:48
+Chingford,256029,Liverpool Street,00:29,0,every 00:15,,,,00:29
+Chislehurst,347974,London Bridge,00:19,0,every 00:10,,,,00:19
+Chislehurst,347974,Cannon Street,00:26,0,every 00:20,,,,00:26
+Chislehurst,347974,Waterloo,00:26,1,every 00:09,,,,00:26
+Chislehurst,347974,Charing Cross,00:27,0,every 00:09,,,,00:27
+Chislehurst,347974,Victoria,00:44,1,every 00:10,,,,00:44
+Chislehurst,347974,Blackfriars,00:47,1,every 00:08,,,,00:47
+City Thameslink,574032,Moorgate,00:19,1,every 00:04,,,,00:19
+City Thameslink,574032,Kings Cross,00:24,1,every 00:04,,,,00:24
+Clock House,347974,London Bridge,00:26,0,every 00:10,,,,00:26
+Clock House,347974,Cannon Street,00:29,0,every 00:17,,,,00:29
+Clock House,347974,Waterloo,00:29,1,every 00:14,,,,00:29
+Clock House,347974,Charing Cross,00:30,0,every 00:14,,,,00:30
+Clock House,347974,Victoria,00:33,1,every 00:12,,,,00:33
+Clock House,347974,Blackfriars,00:34,1,every 00:07,,,,00:34
+Colchester,214162,Liverpool Street,00:53,0,every 00:06,,,,00:53
+Cowden,448336,London Bridge,00:45,0,every 00:51,,,,00:45
+Cowden,448336,Victoria,00:56,1,every 00:51,,,,00:56
+Crayford,231053,London Bridge,00:27,0,every 00:15,,,,00:27
+Crayford,231053,Waterloo,00:37,1,every 00:20,,,,00:37
+Crayford,231053,Charing Cross,00:38,0,every 00:20,,,,00:38
+Crayford,231053,Cannon Street,00:45,0,every 00:09,,,,00:45
+Crayford,231053,Victoria,00:55,1,every 00:10,,,,00:55
+Crayford,231053,Blackfriars,00:58,1,every 00:10,,,,00:58
+Cressing,229818,Liverpool Street,00:58,0,every 00:51,,,,00:58
+Crofton Park,298892,Blackfriars,00:19,0,every 00:20,,,,00:19
+Crofton Park,298892,London Bridge,00:22,1,every 00:17,,,,00:22
+Crofton Park,298892,Charing Cross,00:32,1,every 00:17,,,,00:32
+Crofton Park,298892,Victoria,00:32,1,every 00:18,,,,00:32
+Crofton Park,298892,Waterloo,00:33,1,every 00:17,,,,00:33
+Crofton Park,298892,Cannon Street,00:39,2,every 00:10,,,,00:39
+Crowborough,327187,London Bridge,00:58,0,every 00:42,,,,00:58
+Dagenham Dock,181148,Fenchurch Street,00:24,0,every 00:15,,,,00:24
+Dartford,223277,London Bridge,00:31,0,every 00:09,,,,00:31
+Dartford,223277,Cannon Street,00:41,0,every 00:10,,,,00:41
+Dartford,223277,Waterloo,00:41,1,every 00:07,,,,00:41
+Dartford,223277,Charing Cross,00:42,0,every 00:10,,,,00:42
+Dartford,223277,Blackfriars,00:51,1,every 00:10,,,,00:51
+Dartford,223277,Victoria,00:53,0,every 00:16,,,,00:53
+Denmark Hill,424252,Charing Cross,00:23,1,every 00:13,,,,00:23
+Denmark Hill,424252,Waterloo,00:24,1,every 00:13,,,,00:24
+Denmark Hill,424252,Moorgate,00:28,1,every 00:18,,,,00:28
+Denmark Hill,424252,Cannon Street,00:31,1,every 00:09,,,,00:31
+Denmark Hill,424252,Kings Cross,00:37,1,every 00:08,,,,00:37
+Deptford,298892,Waterloo,00:18,1,every 00:20,,,,00:18
+Deptford,298892,Charing Cross,00:19,0,every 00:20,,,,00:19
+Deptford,298892,Victoria,00:36,1,every 00:15,,,,00:36
+Deptford,298892,Blackfriars,00:38,1,every 00:11,,,,00:38
+Dunton Green,448336,London Bridge,00:29,1,every 00:20,,,,00:29
+Dunton Green,448336,Waterloo,00:39,2,every 00:20,,,,00:39
+Dunton Green,448336,Charing Cross,00:40,1,every 00:20,,,,00:40
+Dunton Green,448336,Cannon Street,00:44,0,every 00:20,,,,00:44
+Dunton Green,448336,Victoria,00:57,1,every 00:20,,,,00:57
+East Dulwich,424252,Victoria,00:22,1,every 00:14,,,,00:22
+East Dulwich,424252,Waterloo,00:32,2,every 00:10,,,,00:32
+East Dulwich,424252,Charing Cross,00:33,1,every 00:10,,,,00:33
+East Malling,309378,Victoria,00:59,0,every 00:13,,,,00:59
+East Tilbury,182331,Fenchurch Street,00:48,0,every 00:12,,,,00:48
+Ebbsfleet International,205533,St Pancras,00:19,0,every 00:15,,,,00:19
+Eden Park,347974,London Bridge,00:32,0,every 00:10,,,,00:32
+Eden Park,347974,Cannon Street,00:35,0,every 00:17,,,,00:35
+Eden Park,347974,Waterloo,00:35,1,every 00:14,,,,00:35
+Eden Park,347974,Charing Cross,00:36,0,every 00:14,,,,00:36
+Eden Park,347974,Victoria,00:42,1,every 00:10,,,,00:42
+Eden Park,347974,Blackfriars,00:47,2,every 00:10,,,,00:47
+Edenbridge,448336,London Bridge,00:58,0,every 00:11,,,,00:58
+Edenbridge,448336,Victoria,00:59,1,every 00:18,,,,00:59
+Edenbridge Town,448336,London Bridge,00:40,0,every 00:25,,,,00:40
+Edenbridge Town,448336,Victoria,00:48,1,every 00:43,,,,00:48
+Elephant & Castle,424252,Moorgate,00:18,0,every 00:05,,,,00:18
+Elephant & Castle,424252,London Bridge,00:25,0,every 00:05,,,,00:25
+Elephant & Castle,424252,Kings Cross,00:30,0,every 00:03,,,,00:30
+Elmers End,347974,London Bridge,00:28,0,every 00:06,,,,00:28
+Elmers End,347974,Cannon Street,00:31,0,every 00:17,,,,00:31
+Elmers End,347974,Waterloo,00:31,1,every 00:14,,,,00:31
+Elmers End,347974,Charing Cross,00:32,0,every 00:14,,,,00:32
+Elmers End,347974,Victoria,00:35,1,every 00:08,,,,00:35
+Elmers End,347974,Blackfriars,00:43,2,every 00:10,,,,00:43
+Elmstead Woods,347974,London Bridge,00:17,0,every 00:10,,,,00:17
+Elmstead Woods,347974,Waterloo,00:23,1,every 00:09,,,,00:23
+Elmstead Woods,347974,Cannon Street,00:24,0,every 00:20,,,,00:24
+Elmstead Woods,347974,Charing Cross,00:24,0,every 00:09,,,,00:24
+Elmstead Woods,347974,Victoria,00:41,1,every 00:11,,,,00:41
+Elmstead Woods,347974,Blackfriars,00:44,1,every 00:11,,,,00:44
+Eltham,298130,London Bridge,00:19,0,every 00:10,,,,00:19
+Eltham,298130,Cannon Street,00:26,0,every 00:18,,,,00:26
+Eltham,298130,Waterloo,00:28,1,every 00:11,,,,00:28
+Eltham,298130,Charing Cross,00:28,0,every 00:11,,,,00:28
+Eltham,298130,Victoria,00:34,0,every 00:16,,,,00:34
+Eltham,298130,Blackfriars,00:46,1,every 00:05,,,,00:46
+Emerson Park,251482,Liverpool Street,00:37,1,every 00:15,,,,00:37
+Eridge,327187,London Bridge,00:53,0,every 00:42,,,,00:53
+Erith,231053,London Bridge,00:32,0,every 00:10,,,,00:32
+Erith,231053,Cannon Street,00:40,0,every 00:10,,,,00:40
+Erith,231053,Waterloo,00:45,1,every 00:10,,,,00:45
+Erith,231053,Charing Cross,00:46,0,every 00:20,,,,00:46
+Erith,231053,Blackfriars,00:49,1,every 00:10,,,,00:49
+Eynsford,448336,Victoria,00:45,1,every 00:19,,,,00:45
+Eynsford,448336,Blackfriars,00:50,0,every 00:19,,,,00:50
+Eynsford,448336,London Bridge,00:51,1,every 00:22,,,,00:51
+Falconwood,231053,London Bridge,00:22,0,every 00:10,,,,00:22
+Falconwood,231053,Cannon Street,00:29,0,every 00:18,,,,00:29
+Falconwood,231053,Waterloo,00:31,1,every 00:11,,,,00:31
+Falconwood,231053,Charing Cross,00:31,0,every 00:11,,,,00:31
+Falconwood,231053,Victoria,00:37,0,every 00:16,,,,00:37
+Falconwood,231053,Blackfriars,00:49,1,every 00:05,,,,00:49
+Farningham Road,223277,Victoria,00:38,0,every 00:20,,,,00:38
+Farningham Road,223277,Blackfriars,00:46,0,every 00:20,,,,00:46
+Farningham Road,223277,London Bridge,00:56,1,every 00:10,,,,00:56
+Farningham Road,223277,Waterloo,00:59,1,every 00:20,,,,00:59
+Farningham Road,223277,Charing Cross,00:59,1,every 00:20,,,,00:59
+Farringdon,526314,Kings Cross,00:20,1,every 00:04,,,,00:20
+Folkestone Central,206805,St Pancras,00:56,0,every 00:29,,,,00:56
+Folkestone West,206805,St Pancras,00:53,0,every 00:29,,,,00:53
+Forest Gate,217987,Liverpool Street,00:15,0,every 00:11,,,,00:15
+Forest Hill,298892,London Bridge,00:16,0,every 00:10,,,,00:16
+Forest Hill,298892,Moorgate,00:34,1,every 00:07,,,,00:34
+Forest Hill,298892,Victoria,00:35,0,every 00:08,,,,00:35
+Forest Hill,298892,Waterloo,00:35,1,every 00:05,,,,00:35
+Forest Hill,298892,Charing Cross,00:36,1,every 00:11,,,,00:36
+Forest Hill,298892,Blackfriars,00:37,1,every 00:07,,,,00:37
+Forest Hill,298892,Kings Cross,00:38,1,every 00:07,,,,00:38
+Frant,327187,London Bridge,00:59,0,every 00:21,,,,00:59
+Gidea Park,251482,Liverpool Street,00:29,0,every 00:03,,,,00:29
+Gillingham (Kent),174947,London Bridge,00:45,0,every 00:21,,,,00:45
+Gillingham (Kent),174947,Cannon Street,00:52,0,every 00:24,,,,00:52
+Gillingham (Kent),174947,Victoria,00:57,0,every 00:11,,,,00:57
+Goodmayes,316019,Liverpool Street,00:21,0,every 00:03,,,,00:21
+Gravesend,205533,London Bridge,00:43,0,every 00:11,,,,00:43
+Gravesend,205533,Victoria,00:47,1,every 00:24,,,,00:47
+Gravesend,205533,Blackfriars,00:48,1,every 00:24,,,,00:48
+Gravesend,205533,Cannon Street,00:52,0,every 00:19,,,,00:52
+Gravesend,205533,Waterloo,00:55,1,every 00:12,,,,00:55
+Gravesend,205533,Charing Cross,00:56,0,every 00:12,,,,00:56
+Grays,182331,Fenchurch Street,00:38,0,every 00:07,,,,00:38
+Greenhithe,223277,London Bridge,00:37,0,every 00:10,,,,00:37
+Greenhithe,223277,Cannon Street,00:46,0,every 00:20,,,,00:46
+Greenhithe,223277,Waterloo,00:49,1,every 00:15,,,,00:49
+Greenhithe,223277,Charing Cross,00:50,0,every 00:15,,,,00:50
+Greenwich,298130,Waterloo,00:20,1,every 00:10,,,,00:20
+Greenwich,298130,Charing Cross,00:21,0,every 00:10,,,,00:21
+Greenwich,298130,Blackfriars,00:32,0,every 00:06,,,,00:32
+Greenwich,298130,Victoria,00:38,1,every 00:06,,,,00:38
+Grove Park,298892,Cannon Street,00:20,0,every 00:20,,,,00:20
+Grove Park,298892,Waterloo,00:20,1,every 00:09,,,,00:20
+Grove Park,298892,Charing Cross,00:21,0,every 00:09,,,,00:21
+Grove Park,298892,Victoria,00:38,1,every 00:08,,,,00:38
+Grove Park,298892,Blackfriars,00:41,1,every 00:11,,,,00:41
+Hackney Central,390127,Euston,00:27,1,every 00:07,,,,00:27
+Hackney Wick,356706,Euston,00:32,1,every 00:07,,,,00:32
+Harold Wood,251482,Liverpool Street,00:33,0,every 00:06,,,,00:33
+Hatfield Peverel,229818,Liverpool Street,00:43,0,every 00:33,,,,00:43
+Hayes,347974,London Bridge,00:37,0,every 00:10,,,,00:37
+Hayes,347974,Cannon Street,00:40,0,every 00:17,,,,00:40
+Hayes,347974,Waterloo,00:40,1,every 00:14,,,,00:40
+Hayes,347974,Charing Cross,00:41,0,every 00:14,,,,00:41
+Hayes,347974,Victoria,00:47,1,every 00:10,,,,00:47
+Hayes,347974,Blackfriars,00:52,2,every 00:10,,,,00:52
+Headcorn,237054,London Bridge,00:58,0,every 00:09,,,,00:58
+Hever,448336,London Bridge,00:44,0,every 00:00,,,,00:44
+Hever,448336,Victoria,00:52,1,every 00:00,,,,00:52
+High Brooms,374023,London Bridge,00:44,0,every 00:15,,,,00:44
+High Brooms,374023,Charing Cross,00:48,0,every 00:14,,,,00:48
+High Brooms,374023,Waterloo,00:49,1,every 00:14,,,,00:49
+High Brooms,374023,Cannon Street,00:50,0,every 00:15,,,,00:50
+Higham,205533,London Bridge,00:51,0,every 00:15,,,,00:51
+Highams Park,256029,Liverpool Street,00:25,0,every 00:15,,,,00:25
+Hildenborough,309378,London Bridge,00:33,0,every 00:13,,,,00:33
+Hildenborough,309378,Cannon Street,00:39,0,every 00:19,,,,00:39
+Hildenborough,309378,Waterloo,00:44,1,every 00:10,,,,00:44
+Hildenborough,309378,Charing Cross,00:45,0,every 00:10,,,,00:45
+Hither Green,298892,Waterloo,00:21,1,every 00:08,,,,00:21
+Hither Green,298892,Charing Cross,00:22,0,every 00:08,,,,00:22
+Hither Green,298892,Cannon Street,00:24,0,every 00:06,,,,00:24
+Hither Green,298892,Victoria,00:37,1,every 00:08,,,,00:37
+Hither Green,298892,Blackfriars,00:42,1,every 00:06,,,,00:42
+Hockley,236926,Liverpool Street,00:49,0,every 00:09,,,,00:49
+Homerton,390127,Euston,00:29,1,every 00:07,,,,00:29
+Honor Oak Park,298892,Moorgate,00:31,1,every 00:07,,,,00:31
+Honor Oak Park,298892,Waterloo,00:33,1,every 00:05,,,,00:33
+Honor Oak Park,298892,Charing Cross,00:34,1,every 00:11,,,,00:34
+Honor Oak Park,298892,Blackfriars,00:34,1,every 00:07,,,,00:34
+Honor Oak Park,298892,Kings Cross,00:35,1,every 00:07,,,,00:35
+Honor Oak Park,298892,Victoria,00:37,0,every 00:04,,,,00:37
+Ilford,316019,Liverpool Street,00:16,0,every 00:03,,,,00:16
+Ingatestone,341139,Liverpool Street,00:31,0,every 00:18,,,,00:31
+Kelvedon,229818,Liverpool Street,00:50,0,every 00:12,,,,00:50
+Kemsing,448336,Victoria,00:45,0,every 00:13,,,,00:45
+Kemsing,448336,Blackfriars,00:46,0,every 00:16,,,,00:46
+Kemsing,448336,London Bridge,00:55,1,every 00:18,,,,00:55
+Kemsing,448336,Charing Cross,00:59,1,every 00:12,,,,00:59
+Kent House,347974,Victoria,00:20,0,every 00:12,,,,00:20
+Kent House,347974,Blackfriars,00:21,0,every 00:13,,,,00:21
+Kent House,347974,Charing Cross,00:34,1,every 00:08,,,,00:34
+Kent House,347974,Waterloo,00:36,1,every 00:11,,,,00:36
+Kent House,347974,London Bridge,00:37,1,every 00:06,,,,00:37
+Kent House,347974,Cannon Street,00:45,1,every 00:10,,,,00:45
+Kidbrooke,298130,London Bridge,00:16,0,every 00:10,,,,00:16
+Kidbrooke,298130,Cannon Street,00:23,0,every 00:18,,,,00:23
+Kidbrooke,298130,Waterloo,00:25,1,every 00:11,,,,00:25
+Kidbrooke,298130,Charing Cross,00:25,0,every 00:11,,,,00:25
+Kidbrooke,298130,Victoria,00:31,0,every 00:16,,,,00:31
+Kidbrooke,298130,Blackfriars,00:43,1,every 00:05,,,,00:43
+Knockholt,448336,London Bridge,00:24,0,every 00:20,,,,00:24
+Knockholt,448336,Waterloo,00:34,2,every 00:20,,,,00:34
+Knockholt,448336,Charing Cross,00:35,1,every 00:20,,,,00:35
+Knockholt,448336,Cannon Street,00:39,0,every 00:20,,,,00:39
+Knockholt,448336,Victoria,00:52,1,every 00:20,,,,00:52
+Knockholt,448336,Blackfriars,00:55,1,every 00:20,,,,00:55
+Ladywell,298892,London Bridge,00:16,0,every 00:10,,,,00:16
+Ladywell,298892,Cannon Street,00:19,0,every 00:17,,,,00:19
+Ladywell,298892,Waterloo,00:19,1,every 00:14,,,,00:19
+Ladywell,298892,Charing Cross,00:20,0,every 00:14,,,,00:20
+Ladywell,298892,Victoria,00:37,1,every 00:10,,,,00:37
+Ladywell,298892,Blackfriars,00:37,1,every 00:07,,,,00:37
+Laindon,235205,Fenchurch Street,00:33,0,every 00:07,,,,00:33
+Lee,298892,Waterloo,00:23,1,every 00:11,,,,00:23
+Lee,298892,Charing Cross,00:24,0,every 00:11,,,,00:24
+Lee,298892,Cannon Street,00:27,0,every 00:11,,,,00:27
+Lee,298892,Victoria,00:41,1,every 00:10,,,,00:41
+Lee,298892,Blackfriars,00:44,1,every 00:11,,,,00:44
+Leigh (Kent),448336,London Bridge,00:47,0,every 00:25,,,,00:47
+Leigh (Kent),448336,Cannon Street,00:53,1,every 00:33,,,,00:53
+Leigh (Kent),448336,Waterloo,00:58,2,every 00:33,,,,00:58
+Leigh (Kent),448336,Charing Cross,00:59,1,every 00:39,,,,00:59
+Leigh On Sea,209540,Fenchurch Street,00:45,0,every 00:07,,,,00:45
+Lewisham,298892,Cannon Street,00:15,0,every 00:06,,,,00:15
+Lewisham,298892,Waterloo,00:18,1,every 00:09,,,,00:18
+Lewisham,298892,Charing Cross,00:19,0,every 00:09,,,,00:19
+Lewisham,298892,Victoria,00:24,0,every 00:15,,,,00:24
+Lewisham,298892,Blackfriars,00:36,0,every 00:07,,,,00:36
+Leyton Midland Road,256029,Euston,00:41,1,every 00:13,,,,00:41
+Leytonstone High Road,256029,Euston,00:44,1,every 00:12,,,,00:44
+London Bridge,424252,Blackfriars,00:26,1,every 00:03,,,,00:26
+London Bridge,424252,Victoria,00:27,0,every 00:07,,,,00:27
+Longfield,223277,Victoria,00:34,0,every 00:22,,,,00:34
+Longfield,223277,Blackfriars,00:49,0,every 00:16,,,,00:49
+Longfield,223277,Charing Cross,00:56,1,every 00:20,,,,00:56
+Longfield,223277,London Bridge,00:59,1,every 00:10,,,,00:59
+Lower Sydenham,298892,London Bridge,00:21,0,every 00:10,,,,00:21
+Lower Sydenham,298892,Cannon Street,00:24,0,every 00:17,,,,00:24
+Lower Sydenham,298892,Waterloo,00:24,1,every 00:14,,,,00:24
+Lower Sydenham,298892,Charing Cross,00:25,0,every 00:14,,,,00:25
+Lower Sydenham,298892,Blackfriars,00:38,1,every 00:10,,,,00:38
+Lower Sydenham,298892,Victoria,00:41,1,every 00:06,,,,00:41
+Manningtree,180264,Liverpool Street,00:58,0,every 00:12,,,,00:58
+Manor Park,217987,Liverpool Street,00:17,0,every 00:11,,,,00:17
+Marden (Kent),237054,London Bridge,00:49,0,every 00:09,,,,00:49
+Marden (Kent),237054,Waterloo,00:56,1,every 00:21,,,,00:56
+Marden (Kent),237054,Cannon Street,00:57,0,every 00:19,,,,00:57
+Marden (Kent),237054,Charing Cross,00:57,0,every 00:21,,,,00:57
+Marks Tey,214162,Liverpool Street,00:54,0,every 00:12,,,,00:54
+Maze Hill,298130,Cannon Street,00:18,0,every 00:10,,,,00:18
+Maze Hill,298130,Waterloo,00:23,1,every 00:20,,,,00:23
+Maze Hill,298130,Charing Cross,00:24,0,every 00:20,,,,00:24
+Maze Hill,298130,Blackfriars,00:39,1,every 00:11,,,,00:39
+Maze Hill,298130,Victoria,00:41,1,every 00:11,,,,00:41
+Meopham,205533,Victoria,00:45,0,every 00:22,,,,00:45
+Meopham,205533,Blackfriars,00:53,0,every 00:16,,,,00:53
+Moorgate,574032,Blackfriars,00:22,1,every 00:02,,,,00:22
+Mottingham,298130,London Bridge,00:17,0,every 00:10,,,,00:17
+Mottingham,298130,Waterloo,00:27,1,every 00:10,,,,00:27
+Mottingham,298130,Charing Cross,00:28,0,every 00:10,,,,00:28
+Mottingham,298130,Cannon Street,00:30,0,every 00:11,,,,00:30
+Mottingham,298130,Victoria,00:44,1,every 00:10,,,,00:44
+Mottingham,298130,Blackfriars,00:47,1,every 00:11,,,,00:47
+New Beckenham,347974,London Bridge,00:23,0,every 00:10,,,,00:23
+New Beckenham,347974,Cannon Street,00:26,0,every 00:17,,,,00:26
+New Beckenham,347974,Waterloo,00:26,1,every 00:14,,,,00:26
+New Beckenham,347974,Charing Cross,00:27,0,every 00:14,,,,00:27
+New Beckenham,347974,Victoria,00:39,1,every 00:08,,,,00:39
+New Beckenham,347974,Blackfriars,00:40,2,every 00:07,,,,00:40
+New Cross,298892,Waterloo,00:25,1,every 00:05,,,,00:25
+New Cross,298892,Charing Cross,00:26,1,every 00:05,,,,00:26
+New Cross,298892,Blackfriars,00:30,1,every 00:15,,,,00:30
+New Cross,298892,Victoria,00:37,1,every 00:03,,,,00:37
+New Cross Gate,298892,Moorgate,00:26,1,every 00:07,,,,00:26
+New Cross Gate,298892,Waterloo,00:28,1,every 00:05,,,,00:28
+New Cross Gate,298892,Charing Cross,00:29,1,every 00:11,,,,00:29
+New Cross Gate,298892,Blackfriars,00:29,1,every 00:07,,,,00:29
+New Cross Gate,298892,Kings Cross,00:30,1,every 00:07,,,,00:30
+New Cross Gate,298892,Victoria,00:37,0,every 00:06,,,,00:37
+New Eltham,298130,London Bridge,00:15,0,every 00:10,,,,00:15
+New Eltham,298130,Waterloo,00:25,1,every 00:11,,,,00:25
+New Eltham,298130,Charing Cross,00:26,0,every 00:11,,,,00:26
+New Eltham,298130,Cannon Street,00:33,0,every 00:06,,,,00:33
+New Eltham,298130,Victoria,00:43,1,every 00:08,,,,00:43
+New Eltham,298130,Blackfriars,00:46,1,every 00:11,,,,00:46
+Newington,187302,London Bridge,00:56,0,every 00:25,,,,00:56
+North Dulwich,424252,London Bridge,00:15,0,every 00:09,,,,00:15
+North Dulwich,424252,Victoria,00:24,1,every 00:13,,,,00:24
+North Dulwich,424252,Waterloo,00:34,2,every 00:07,,,,00:34
+North Dulwich,424252,Charing Cross,00:35,1,every 00:07,,,,00:35
+North Fambridge,226637,Liverpool Street,00:56,0,every 00:43,,,,00:56
+Northfleet,205533,London Bridge,00:44,0,every 00:18,,,,00:44
+Northfleet,205533,Cannon Street,00:51,0,every 00:35,,,,00:51
+Northfleet,205533,Waterloo,00:54,1,every 00:22,,,,00:54
+Northfleet,205533,Charing Cross,00:55,0,every 00:22,,,,00:55
+Norwood Junction,271598,Victoria,00:26,0,every 00:08,,,,00:26
+Norwood Junction,271598,Cannon Street,00:28,1,every 00:14,,,,00:28
+Norwood Junction,271598,Waterloo,00:31,1,every 00:06,,,,00:31
+Norwood Junction,271598,Charing Cross,00:32,1,every 00:13,,,,00:32
+Norwood Junction,271598,Blackfriars,00:38,1,every 00:07,,,,00:38
+Norwood Junction,271598,Kings Cross,00:45,1,every 00:06,,,,00:45
+Norwood Junction,271598,Moorgate,00:45,1,every 00:06,,,,00:45
+Nunhead,424252,Blackfriars,00:15,0,every 00:19,,,,00:15
+Nunhead,424252,London Bridge,00:17,1,every 00:06,,,,00:17
+Nunhead,424252,Victoria,00:18,0,every 00:14,,,,00:18
+Nunhead,424252,Cannon Street,00:27,1,every 00:13,,,,00:27
+Nunhead,424252,Charing Cross,00:28,1,every 00:13,,,,00:28
+Nunhead,424252,Waterloo,00:29,1,every 00:18,,,,00:29
+Ockendon,182331,Fenchurch Street,00:31,0,every 00:19,,,,00:31
+Old Street,526314,Blackfriars,00:15,0,every 00:04,,,,00:15
+Orpington,347974,London Bridge,00:26,0,every 00:08,,,,00:26
+Orpington,347974,Waterloo,00:32,1,every 00:09,,,,00:32
+Orpington,347974,Cannon Street,00:33,0,every 00:14,,,,00:33
+Orpington,347974,Charing Cross,00:33,0,every 00:07,,,,00:33
+Orpington,347974,Victoria,00:37,0,every 00:10,,,,00:37
+Orpington,347974,Blackfriars,00:40,0,every 00:10,,,,00:40
+Otford,448336,London Bridge,00:35,1,every 00:23,,,,00:35
+Otford,448336,Victoria,00:39,0,every 00:13,,,,00:39
+Otford,448336,Blackfriars,00:40,0,every 00:16,,,,00:40
+Otford,448336,Cannon Street,00:43,1,every 00:19,,,,00:43
+Otford,448336,Waterloo,00:48,1,every 00:17,,,,00:48
+Otford,448336,Charing Cross,00:49,1,every 00:10,,,,00:49
+Paddock Wood,374023,London Bridge,00:42,0,every 00:09,,,,00:42
+Paddock Wood,374023,Cannon Street,00:50,0,every 00:19,,,,00:50
+Paddock Wood,374023,Waterloo,00:50,1,every 00:20,,,,00:50
+Paddock Wood,374023,Charing Cross,00:51,0,every 00:20,,,,00:51
+Paddock Wood,374023,Blackfriars,00:58,1,every 00:23,,,,00:58
+Peckham Rye,424252,Victoria,00:16,0,every 00:10,,,,00:16
+Peckham Rye,424252,Cannon Street,00:26,1,every 00:07,,,,00:26
+Peckham Rye,424252,Charing Cross,00:26,1,every 00:05,,,,00:26
+Peckham Rye,424252,Waterloo,00:27,1,every 00:05,,,,00:27
+Peckham Rye,424252,Moorgate,00:31,1,every 00:10,,,,00:31
+Peckham Rye,424252,Kings Cross,00:42,1,every 00:03,,,,00:42
+Penge East,347974,Blackfriars,00:19,0,every 00:13,,,,00:19
+Penge East,347974,Victoria,00:19,0,every 00:14,,,,00:19
+Penge East,347974,Charing Cross,00:32,1,every 00:16,,,,00:32
+Penge East,347974,Waterloo,00:34,1,every 00:11,,,,00:34
+Penge East,347974,London Bridge,00:38,1,every 00:08,,,,00:38
+Penge East,347974,Moorgate,00:38,1,every 00:15,,,,00:38
+Penge East,347974,Kings Cross,00:45,1,every 00:10,,,,00:45
+Penge East,347974,Cannon Street,00:49,1,every 00:04,,,,00:49
+Penge West,347974,London Bridge,00:21,0,every 00:15,,,,00:21
+Penge West,347974,Victoria,00:32,1,every 00:09,,,,00:32
+Penge West,347974,Cannon Street,00:37,1,every 00:12,,,,00:37
+Penge West,347974,Blackfriars,00:38,1,every 00:07,,,,00:38
+Penge West,347974,Moorgate,00:39,1,every 00:11,,,,00:39
+Penge West,347974,Waterloo,00:40,1,every 00:08,,,,00:40
+Penge West,347974,Charing Cross,00:41,1,every 00:16,,,,00:41
+Penge West,347974,Kings Cross,00:43,1,every 00:07,,,,00:43
+Penshurst,448336,London Bridge,00:50,0,every 00:23,,,,00:50
+Penshurst,448336,Cannon Street,00:56,1,every 00:32,,,,00:56
+Petts Wood,347974,London Bridge,00:23,0,every 00:10,,,,00:23
+Petts Wood,347974,Cannon Street,00:29,0,every 00:20,,,,00:29
+Petts Wood,347974,Waterloo,00:29,1,every 00:09,,,,00:29
+Petts Wood,347974,Charing Cross,00:30,0,every 00:09,,,,00:30
+Petts Wood,347974,Victoria,00:36,0,every 00:10,,,,00:36
+Petts Wood,347974,Blackfriars,00:37,0,every 00:12,,,,00:37
+Pitsea,235205,Fenchurch Street,00:41,0,every 00:16,,,,00:41
+Plumstead,298130,London Bridge,00:24,0,every 00:10,,,,00:24
+Plumstead,298130,Cannon Street,00:31,0,every 00:10,,,,00:31
+Plumstead,298130,Waterloo,00:36,1,every 00:10,,,,00:36
+Plumstead,298130,Charing Cross,00:37,0,every 00:20,,,,00:37
+Plumstead,298130,Blackfriars,00:40,1,every 00:10,,,,00:40
+Plumstead,298130,Victoria,00:54,1,every 00:11,,,,00:54
+Prittlewell,209540,Liverpool Street,00:58,0,every 00:09,,,,00:58
+Purfleet,182331,Fenchurch Street,00:33,0,every 00:15,,,,00:33
+Queens Road Peckham,424252,Blackfriars,00:20,1,every 00:13,,,,00:20
+Queens Road Peckham,424252,Victoria,00:21,0,every 00:14,,,,00:21
+Queens Road Peckham,424252,Waterloo,00:27,2,every 00:07,,,,00:27
+Queens Road Peckham,424252,Charing Cross,00:28,1,every 00:07,,,,00:28
+Queens Road Peckham,424252,Moorgate,00:38,1,every 00:07,,,,00:38
+Queens Road Peckham,424252,Kings Cross,00:39,1,every 00:07,,,,00:39
+Rainham,251482,London Bridge,00:39,1,every 00:15,,,,00:39
+Rainham,251482,Cannon Street,00:39,1,every 00:15,,,,00:39
+Rainham,251482,Waterloo,00:41,1,every 00:15,,,,00:41
+Rainham,251482,Blackfriars,00:42,1,every 00:15,,,,00:42
+Rainham,251482,Charing Cross,00:48,1,every 00:15,,,,00:48
+Rainham,251482,Victoria,00:49,1,every 00:15,,,,00:49
+Rainham (Kent),174947,London Bridge,00:50,0,every 00:22,,,,00:50
+Rainham (Kent),174947,Cannon Street,00:57,0,every 00:26,,,,00:57
+Rainham (Kent),174947,Victoria,00:59,0,every 00:14,,,,00:59
+Ravensbourne,347974,Blackfriars,00:27,0,every 00:14,,,,00:27
+Ravensbourne,347974,Victoria,00:29,1,every 00:13,,,,00:29
+Ravensbourne,347974,London Bridge,00:30,1,every 00:16,,,,00:30
+Ravensbourne,347974,Waterloo,00:40,1,every 00:16,,,,00:40
+Ravensbourne,347974,Charing Cross,00:41,1,every 00:16,,,,00:41
+Ravensbourne,347974,Cannon Street,00:48,2,every 00:10,,,,00:48
+Rayleigh,236926,Liverpool Street,00:44,0,every 00:09,,,,00:44
+Rochester,174947,London Bridge,00:38,0,every 00:14,,,,00:38
+Rochester,174947,Cannon Street,00:46,0,every 00:21,,,,00:46
+Rochester,174947,Victoria,00:56,0,every 00:12,,,,00:56
+Rochford,236926,Liverpool Street,00:52,0,every 00:09,,,,00:52
+Romford,251482,Liverpool Street,00:27,0,every 00:03,,,,00:27
+Sandling,206805,St Pancras,00:56,1,every 00:29,,,,00:56
+Seven Kings,316019,Liverpool Street,00:19,0,every 00:03,,,,00:19
+Sevenoaks,448336,London Bridge,00:25,0,every 00:06,,,,00:25
+Sevenoaks,448336,Cannon Street,00:32,0,every 00:16,,,,00:32
+Sevenoaks,448336,Waterloo,00:33,1,every 00:10,,,,00:33
+Sevenoaks,448336,Charing Cross,00:34,0,every 00:10,,,,00:34
+Sevenoaks,448336,Victoria,00:51,1,every 00:07,,,,00:51
+Sevenoaks,448336,Blackfriars,00:54,0,every 00:07,,,,00:54
+Shenfield,341139,Liverpool Street,00:29,0,every 00:05,,,,00:29
+Shoreham, Kent,448336,London Bridge,00:38,1,every 00:23,,,,00:38
+Shoreham, Kent,448336,Cannon Street,00:46,1,every 00:23,,,,00:46
+Shoreham, Kent,448336,Victoria,00:46,1,every 00:17,,,,00:46
+Shoreham, Kent,448336,Waterloo,00:48,2,every 00:23,,,,00:48
+Shoreham, Kent,448336,Charing Cross,00:49,1,every 00:23,,,,00:49
+Shoreham, Kent,448336,Blackfriars,00:54,0,every 00:17,,,,00:54
+Shortlands,347974,Victoria,00:26,0,every 00:12,,,,00:26
+Shortlands,347974,Blackfriars,00:29,0,every 00:09,,,,00:29
+Shortlands,347974,London Bridge,00:34,1,every 00:10,,,,00:34
+Shortlands,347974,Charing Cross,00:40,1,every 00:08,,,,00:40
+Shortlands,347974,Waterloo,00:42,1,every 00:04,,,,00:42
+Shortlands,347974,Cannon Street,00:48,1,every 00:06,,,,00:48
+Sidcup,231053,London Bridge,00:18,0,every 00:09,,,,00:18
+Sidcup,231053,Waterloo,00:28,1,every 00:11,,,,00:28
+Sidcup,231053,Charing Cross,00:29,0,every 00:11,,,,00:29
+Sidcup,231053,Cannon Street,00:37,0,every 00:06,,,,00:37
+Sidcup,231053,Victoria,00:46,1,every 00:08,,,,00:46
+Sidcup,231053,Blackfriars,00:49,1,every 00:11,,,,00:49
+Sittingbourne,187302,London Bridge,00:58,0,every 00:22,,,,00:58
+Slade Green,231053,London Bridge,00:35,0,every 00:10,,,,00:35
+Slade Green,231053,Cannon Street,00:43,0,every 00:10,,,,00:43
+Slade Green,231053,Waterloo,00:48,1,every 00:10,,,,00:48
+Slade Green,231053,Charing Cross,00:49,0,every 00:20,,,,00:49
+Slade Green,231053,Blackfriars,00:52,1,every 00:10,,,,00:52
+Sole Street,205533,Victoria,00:48,0,every 00:19,,,,00:48
+Sole Street,205533,Blackfriars,00:56,0,every 00:19,,,,00:56
+South Bermondsey,424252,Blackfriars,00:22,1,every 00:13,,,,00:22
+South Bermondsey,424252,Victoria,00:23,0,every 00:14,,,,00:23
+South Bermondsey,424252,Waterloo,00:24,2,every 00:07,,,,00:24
+South Bermondsey,424252,Charing Cross,00:25,1,every 00:07,,,,00:25
+South Bermondsey,424252,Moorgate,00:37,1,every 00:04,,,,00:37
+South Bermondsey,424252,Kings Cross,00:37,1,every 00:07,,,,00:37
+Southend Central,209540,Fenchurch Street,00:52,0,every 00:07,,,,00:52
+Southend East,209540,Fenchurch Street,00:55,0,every 00:07,,,,00:55
+St James Street,256029,Liverpool Street,00:16,0,every 00:15,,,,00:16
+St Johns,298892,Cannon Street,00:15,0,every 00:10,,,,00:15
+St Johns,298892,Waterloo,00:27,2,every 00:07,,,,00:27
+St Johns,298892,Charing Cross,00:28,1,every 00:07,,,,00:28
+St Johns,298892,Blackfriars,00:36,1,every 00:07,,,,00:36
+St Johns,298892,Victoria,00:38,1,every 00:07,,,,00:38
+St Mary Cray,347974,Victoria,00:28,0,every 00:09,,,,00:28
+St Mary Cray,347974,Blackfriars,00:36,0,every 00:09,,,,00:36
+St Mary Cray,347974,London Bridge,00:44,1,every 00:16,,,,00:44
+St Mary Cray,347974,Waterloo,00:49,1,every 00:13,,,,00:49
+St Mary Cray,347974,Charing Cross,00:49,1,every 00:13,,,,00:49
+St Mary Cray,347974,Cannon Street,00:58,1,every 00:12,,,,00:58
+Stanford-le-Hope,182331,Fenchurch Street,00:52,0,every 00:08,,,,00:52
+Staplehurst,237054,London Bridge,00:53,0,every 00:09,,,,00:53
+Stone Crossing,223277,London Bridge,00:37,0,every 00:18,,,,00:37
+Stone Crossing,223277,Cannon Street,00:44,0,every 00:35,,,,00:44
+Stone Crossing,223277,Waterloo,00:47,1,every 00:22,,,,00:47
+Stone Crossing,223277,Charing Cross,00:48,0,every 00:22,,,,00:48
+Stratford,217987,St Pancras,00:24,0,every 00:07,,,,00:24
+Strood (Kent),174947,London Bridge,00:51,0,every 00:10,,,,00:51
+Strood (Kent),174947,Victoria,00:57,1,every 00:13,,,,00:57
+Strood (Kent),174947,Blackfriars,00:58,1,every 00:17,,,,00:58
+Sundridge Park,347974,London Bridge,00:20,1,every 00:22,,,,00:20
+Sundridge Park,347974,Cannon Street,00:27,1,every 00:22,,,,00:27
+Sundridge Park,347974,Waterloo,00:32,2,every 00:23,,,,00:32
+Sundridge Park,347974,Charing Cross,00:33,1,every 00:23,,,,00:33
+Sundridge Park,347974,Victoria,00:47,2,every 00:09,,,,00:47
+Sundridge Park,347974,Blackfriars,00:53,2,every 00:13,,,,00:53
+Swanley,448336,Blackfriars,00:31,0,every 00:15,,,,00:31
+Swanley,448336,Victoria,00:31,0,every 00:10,,,,00:31
+Swanley,448336,London Bridge,00:44,1,every 00:12,,,,00:44
+Swanley,448336,Charing Cross,00:44,1,every 00:08,,,,00:44
+Swanley,448336,Waterloo,00:45,1,every 00:11,,,,00:45
+Swanley,448336,Cannon Street,00:54,1,every 00:10,,,,00:54
+Swanscombe,223277,London Bridge,00:42,0,every 00:18,,,,00:42
+Swanscombe,223277,Cannon Street,00:49,0,every 00:35,,,,00:49
+Swanscombe,223277,Waterloo,00:52,1,every 00:22,,,,00:52
+Swanscombe,223277,Charing Cross,00:53,0,every 00:22,,,,00:53
+Sydenham,298892,London Bridge,00:19,0,every 00:10,,,,00:19
+Sydenham,298892,Victoria,00:32,0,every 00:14,,,,00:32
+Sydenham,298892,Moorgate,00:36,1,every 00:07,,,,00:36
+Sydenham,298892,Waterloo,00:38,1,every 00:05,,,,00:38
+Sydenham,298892,Charing Cross,00:39,1,every 00:11,,,,00:39
+Sydenham,298892,Kings Cross,00:40,1,every 00:07,,,,00:40
+Sydenham,298892,Blackfriars,00:40,1,every 00:06,,,,00:40
+Sydenham Hill,424252,Victoria,00:16,0,every 00:14,,,,00:16
+Sydenham Hill,424252,Blackfriars,00:16,0,every 00:13,,,,00:16
+Sydenham Hill,424252,Charing Cross,00:29,1,every 00:16,,,,00:29
+Sydenham Hill,424252,Waterloo,00:31,1,every 00:15,,,,00:31
+Sydenham Hill,424252,London Bridge,00:41,1,every 00:06,,,,00:41
+Sydenham Hill,424252,Cannon Street,00:46,1,every 00:07,,,,00:46
+Thorpe Bay,209540,Fenchurch Street,00:58,0,every 00:07,,,,00:58
+Tilbury Town,182331,Fenchurch Street,00:42,0,every 00:12,,,,00:42
+Tonbridge,309378,London Bridge,00:34,0,every 00:11,,,,00:34
+Tonbridge,309378,Waterloo,00:41,1,every 00:10,,,,00:41
+Tonbridge,309378,Cannon Street,00:42,0,every 00:17,,,,00:42
+Tonbridge,309378,Charing Cross,00:42,0,every 00:10,,,,00:42
+Tunbridge Wells,374023,London Bridge,00:48,0,every 00:15,,,,00:48
+Tunbridge Wells,374023,Charing Cross,00:52,0,every 00:14,,,,00:52
+Tunbridge Wells,374023,Waterloo,00:53,1,every 00:14,,,,00:53
+Tunbridge Wells,374023,Cannon Street,00:54,0,every 00:15,,,,00:54
+Upminster,251482,Fenchurch Street,00:24,0,every 00:05,,,,00:24
+Upminster,251482,Liverpool Street,00:34,1,every 00:06,,,,00:34
+Walthamstow Central,256029,Liverpool Street,00:19,0,every 00:15,,,,00:19
+Walthamstow Queens Road,256029,Euston,00:38,0,every 00:09,,,,00:38
+Wanstead Park,217987,Euston,00:47,1,every 00:09,,,,00:47
+Wateringbury,309378,London Bridge,00:58,1,every 00:34,,,,00:58
+Waterloo East,411350,Cannon Street,00:20,0,every 00:04,,,,00:20
+Waterloo East,411350,Victoria,00:22,1,every 00:02,,,,00:22
+Waterloo East,411350,Blackfriars,00:25,1,every 00:02,,,,00:25
+Welling,231053,London Bridge,00:24,0,every 00:10,,,,00:24
+Welling,231053,Cannon Street,00:31,0,every 00:18,,,,00:31
+Welling,231053,Charing Cross,00:34,0,every 00:11,,,,00:34
+Welling,231053,Waterloo,00:38,1,every 00:30,,,,00:38
+Welling,231053,Victoria,00:40,0,every 00:15,,,,00:40
+Welling,231053,Blackfriars,00:48,1,every 00:08,,,,00:48
+West Dulwich,424252,Charing Cross,00:34,1,every 00:30,,,,00:34
+West Dulwich,424252,Blackfriars,00:38,1,every 00:30,,,,00:38
+West Dulwich,424252,London Bridge,00:40,1,every 00:30,,,,00:40
+West Dulwich,424252,Cannon Street,00:42,1,every 00:30,,,,00:42
+West Dulwich,424252,Waterloo,00:44,1,every 00:30,,,,00:44
+West Horndon,341139,Fenchurch Street,00:30,0,every 00:15,,,,00:30
+West Malling,309378,Victoria,00:56,0,every 00:13,,,,00:56
+West Malling,309378,Blackfriars,00:57,0,every 00:19,,,,00:57
+West Wickham,347974,London Bridge,00:34,0,every 00:10,,,,00:34
+West Wickham,347974,Cannon Street,00:37,0,every 00:17,,,,00:37
+West Wickham,347974,Waterloo,00:37,1,every 00:14,,,,00:37
+West Wickham,347974,Charing Cross,00:38,0,every 00:14,,,,00:38
+West Wickham,347974,Victoria,00:44,1,every 00:10,,,,00:44
+West Wickham,347974,Blackfriars,00:49,2,every 00:10,,,,00:49
+Westcliff-on-Sea,209540,Fenchurch Street,00:50,0,every 00:07,,,,00:50
+Westcombe Park,298130,Cannon Street,00:20,0,every 00:10,,,,00:20
+Westcombe Park,298130,Waterloo,00:25,1,every 00:20,,,,00:25
+Westcombe Park,298130,Charing Cross,00:26,0,every 00:20,,,,00:26
+Westcombe Park,298130,Blackfriars,00:31,1,every 00:23,,,,00:31
+Westcombe Park,298130,Victoria,00:43,1,every 00:11,,,,00:43
+Westenhanger,206805,St Pancras,00:53,1,every 00:29,,,,00:53
+White Notley,229818,Liverpool Street,00:55,0,every 00:51,,,,00:55
+Wickford,235205,Liverpool Street,00:41,0,every 00:08,,,,00:41
+Witham,229818,Liverpool Street,00:45,0,every 00:06,,,,00:45
+Wood Street,256029,Liverpool Street,00:21,0,every 00:15,,,,00:21
+Woodgrange Park,217987,Euston,00:50,1,every 00:13,,,,00:50
+Woolwich Arsenal,298130,London Bridge,00:19,0,every 00:06,,,,00:19
+Woolwich Arsenal,298130,Cannon Street,00:25,0,every 00:10,,,,00:25
+Woolwich Arsenal,298130,Waterloo,00:33,1,every 00:10,,,,00:33
+Woolwich Arsenal,298130,Charing Cross,00:34,0,every 00:10,,,,00:34
+Woolwich Arsenal,298130,Victoria,00:50,1,every 00:05,,,,00:50
+Woolwich Arsenal,298130,Blackfriars,00:54,1,every 00:09,,,,00:54
+Woolwich Dockyard,298130,London Bridge,00:18,0,every 00:10,,,,00:18
+Woolwich Dockyard,298130,Cannon Street,00:26,0,every 00:10,,,,00:26
+Woolwich Dockyard,298130,Waterloo,00:31,1,every 00:20,,,,00:31
+Woolwich Dockyard,298130,Charing Cross,00:32,0,every 00:20,,,,00:32
+Woolwich Dockyard,298130,Blackfriars,00:37,1,every 00:23,,,,00:37
+Woolwich Dockyard,298130,Victoria,00:49,1,every 00:11,,,,00:49
+Yalding,237054,London Bridge,00:54,1,every 00:34,,,,00:54
+
+Data exported from commutefrom.com

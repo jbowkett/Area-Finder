@@ -1,0 +1,320 @@
+From (train),House Price,To (train),Train time,Changes,Frequency,From (tube),To (tube),Tube time,Total time
+Alexandra Palace,438758,Moorgate,00:20,0,every 00:05,,,,00:20
+Alexandra Palace,438758,Kings Cross,00:20,1,every 00:05,,,,00:20
+Alexandra Palace,438758,London Bridge,00:27,1,every 00:05,,,,00:27
+Alexandra Palace,438758,Blackfriars,00:34,1,every 00:06,,,,00:34
+Amersham,536037,Marylebone,00:39,0,every 00:16,,,,00:39
+Angel Road,307394,Liverpool Street,00:21,0,every 00:43,,,,00:21
+Apsley,343109,Euston,00:27,0,every 00:24,,,,00:27
+Arlesey,251158,Kings Cross,00:34,0,every 00:30,,,,00:34
+Arlesey,251158,Moorgate,00:50,1,every 00:45,,,,00:50
+Arlesey,251158,London Bridge,00:57,1,every 00:45,,,,00:57
+Ashwell & Morden,303061,Kings Cross,00:42,0,every 00:15,,,,00:42
+Ashwell & Morden,303061,Moorgate,00:58,1,every 00:22,,,,00:58
+Audley End,365312,Liverpool Street,00:51,0,every 00:15,,,,00:51
+Baldock,274270,Kings Cross,00:37,0,every 00:15,,,,00:37
+Baldock,274270,Moorgate,00:53,1,every 00:22,,,,00:53
+Bayford,322619,Moorgate,00:44,0,every 00:21,,,,00:44
+Bayford,322619,Kings Cross,00:46,1,every 00:21,,,,00:46
+Bayford,322619,London Bridge,00:51,1,every 00:21,,,,00:51
+Bayford,322619,Blackfriars,00:59,1,every 00:21,,,,00:59
+Beaconsfield,565049,Marylebone,00:23,0,every 00:14,,,,00:23
+Bedford (Midland),207633,Kings Cross,00:55,1,every 00:06,,,,00:55
+Bedford (Midland),207633,Euston,00:59,1,every 00:09,,,,00:59
+Berkhamsted,343109,Euston,00:33,0,every 00:14,,,,00:33
+Biggleswade,251158,Kings Cross,00:35,0,every 00:22,,,,00:35
+Biggleswade,251158,Moorgate,00:55,1,every 00:45,,,,00:55
+Billericay,235205,Liverpool Street,00:34,0,every 00:08,,,,00:34
+Bishops Stortford,322619,Liverpool Street,00:38,0,every 00:07,,,,00:38
+Bletchley,219344,Euston,00:45,0,every 00:11,,,,00:45
+Bowes Park,438758,Moorgate,00:21,0,every 00:08,,,,00:21
+Bowes Park,438758,Kings Cross,00:23,1,every 00:08,,,,00:23
+Bowes Park,438758,London Bridge,00:28,1,every 00:08,,,,00:28
+Bowes Park,438758,Blackfriars,00:36,1,every 00:09,,,,00:36
+Brentwood,341139,Liverpool Street,00:38,0,every 00:04,,,,00:38
+Bricket Wood,451155,Euston,00:34,1,every 00:42,,,,00:34
+Brimsdown,307394,Liverpool Street,00:23,0,every 00:08,,,,00:23
+Brondesbury,421527,Euston,00:34,1,every 00:09,,,,00:34
+Brondesbury Park,421527,Euston,00:33,1,every 00:09,,,,00:33
+Brookmans Park,315934,Moorgate,00:35,0,every 00:15,,,,00:35
+Brookmans Park,315934,Kings Cross,00:35,1,every 00:14,,,,00:35
+Brookmans Park,315934,London Bridge,00:42,1,every 00:15,,,,00:42
+Brookmans Park,315934,Blackfriars,00:50,1,every 00:16,,,,00:50
+Broxbourne,245865,Liverpool Street,00:32,0,every 00:08,,,,00:32
+Bruce Grove,438758,Liverpool Street,00:22,0,every 00:10,,,,00:22
+Bush Hill Park,307394,Liverpool Street,00:34,0,every 00:15,,,,00:34
+Bushey,269245,Euston,00:18,0,every 00:16,,,,00:18
+Cambridge,349310,Kings Cross,00:52,0,every 00:12,,,,00:52
+Camden Road,824485,Euston,00:25,1,every 00:05,,,,00:25
+Canonbury,526314,Euston,00:24,1,every 00:03,,,,00:24
+Carpenders Park,454193,Euston,00:26,0,every 00:20,,,,00:26
+Chalfont & Latimer,536037,Marylebone,00:35,0,every 00:21,,,,00:35
+Cheddington,273920,Euston,00:43,0,every 00:21,,,,00:43
+Chelmsford (Essex),267118,Liverpool Street,00:37,0,every 00:07,,,,00:37
+Cheshunt,245865,Liverpool Street,00:27,0,every 00:08,,,,00:27
+Chingford,256029,Liverpool Street,00:29,0,every 00:15,,,,00:29
+Chorleywood,454193,Marylebone,00:32,0,every 00:27,,,,00:32
+Colchester,214162,Liverpool Street,00:53,0,every 00:06,,,,00:53
+Coventry,143837,Euston,00:57,0,every 00:22,,,,00:57
+Cressing,229818,Liverpool Street,00:58,0,every 00:51,,,,00:58
+Crews Hill,307394,Moorgate,00:36,0,every 00:17,,,,00:36
+Crews Hill,307394,Kings Cross,00:38,1,every 00:17,,,,00:38
+Crews Hill,307394,London Bridge,00:43,1,every 00:17,,,,00:43
+Crews Hill,307394,Blackfriars,00:51,1,every 00:21,,,,00:51
+Cricklewood,465297,Blackfriars,00:23,0,every 00:18,,,,00:23
+Cricklewood,465297,Kings Cross,00:27,1,every 00:18,,,,00:27
+Cricklewood,465297,Moorgate,00:32,1,every 00:18,,,,00:32
+Cricklewood,465297,London Bridge,00:34,1,every 00:18,,,,00:34
+Crouch Hill,526314,Euston,00:41,1,every 00:07,,,,00:41
+Cuffley,315934,Moorgate,00:35,0,every 00:07,,,,00:35
+Cuffley,315934,Kings Cross,00:36,1,every 00:07,,,,00:36
+Cuffley,315934,London Bridge,00:42,1,every 00:07,,,,00:42
+Cuffley,315934,Blackfriars,00:49,1,every 00:08,,,,00:49
+Dalston Kingsland,390127,Euston,00:26,1,every 00:05,,,,00:26
+Denham,565049,Marylebone,00:20,0,every 00:23,,,,00:20
+Denham Golf Club,565049,Marylebone,00:29,0,every 00:33,,,,00:29
+Drayton Park,526314,Kings Cross,00:16,1,every 00:04,,,,00:16
+Drayton Park,526314,London Bridge,00:19,1,every 00:05,,,,00:19
+Drayton Park,526314,Blackfriars,00:27,1,every 00:05,,,,00:27
+Edmonton Green,307394,Liverpool Street,00:22,0,every 00:07,,,,00:22
+Elsenham,365312,Liverpool Street,00:55,0,every 00:30,,,,00:55
+Elstree & Borehamwood,428279,Blackfriars,00:31,0,every 00:09,,,,00:31
+Elstree & Borehamwood,428279,Kings Cross,00:34,1,every 00:09,,,,00:34
+Elstree & Borehamwood,428279,Moorgate,00:40,1,every 00:09,,,,00:40
+Elstree & Borehamwood,428279,London Bridge,00:43,1,every 00:11,,,,00:43
+Enfield Chase,307394,Moorgate,00:28,0,every 00:07,,,,00:28
+Enfield Chase,307394,Kings Cross,00:29,1,every 00:06,,,,00:29
+Enfield Chase,307394,London Bridge,00:35,1,every 00:06,,,,00:35
+Enfield Chase,307394,Blackfriars,00:43,1,every 00:07,,,,00:43
+Enfield Lock,307394,Liverpool Street,00:26,0,every 00:12,,,,00:26
+Enfield Town,307394,Liverpool Street,00:37,0,every 00:15,,,,00:37
+Essex Road,526314,London Bridge,00:15,1,every 00:05,,,,00:15
+Essex Road,526314,Blackfriars,00:23,1,every 00:05,,,,00:23
+Finchley Road & Frognal,824485,Euston,00:35,1,every 00:05,,,,00:35
+Finsbury Park,526314,London Bridge,00:21,1,every 00:05,,,,00:21
+Finsbury Park,526314,Blackfriars,00:29,1,every 00:05,,,,00:29
+Flitwick,251158,Blackfriars,00:52,0,every 00:09,,,,00:52
+Flitwick,251158,Kings Cross,00:55,1,every 00:09,,,,00:55
+Foxton,303061,Kings Cross,00:54,0,every 00:37,,,,00:54
+Garston (Hertfordshire),269245,Euston,00:31,1,every 00:42,,,,00:31
+Gordon Hill,307394,Moorgate,00:30,0,every 00:07,,,,00:30
+Gordon Hill,307394,Kings Cross,00:32,1,every 00:07,,,,00:32
+Gordon Hill,307394,London Bridge,00:37,1,every 00:07,,,,00:37
+Gordon Hill,307394,Blackfriars,00:45,1,every 00:07,,,,00:45
+Gospel Oak,824485,Euston,00:32,1,every 00:07,,,,00:32
+Grange Park,307394,Moorgate,00:28,0,every 00:10,,,,00:28
+Grange Park,307394,Kings Cross,00:30,1,every 00:12,,,,00:30
+Grange Park,307394,London Bridge,00:35,1,every 00:12,,,,00:35
+Grange Park,307394,Blackfriars,00:43,1,every 00:12,,,,00:43
+Great Missenden,536037,Marylebone,00:45,0,every 00:16,,,,00:45
+Haddenham & Thame Parkway,273920,Marylebone,00:44,0,every 00:20,,,,00:44
+Hadley Wood,307394,Kings Cross,00:28,1,every 00:15,,,,00:28
+Hadley Wood,307394,Moorgate,00:28,0,every 00:15,,,,00:28
+Hadley Wood,307394,London Bridge,00:35,1,every 00:15,,,,00:35
+Hadley Wood,307394,Blackfriars,00:43,1,every 00:15,,,,00:43
+Hampstead Heath,824485,Euston,00:34,1,every 00:07,,,,00:34
+Harlesden,421527,Euston,00:19,0,every 00:15,,,,00:19
+Harlington,251158,Blackfriars,00:56,0,every 00:13,,,,00:56
+Harlington,251158,Kings Cross,00:58,1,every 00:13,,,,00:58
+Harlow Mill,192439,Liverpool Street,00:44,0,every 00:21,,,,00:44
+Harlow Town,192439,Liverpool Street,00:33,0,every 00:09,,,,00:33
+Harpenden,451155,Blackfriars,00:36,0,every 00:08,,,,00:36
+Harpenden,451155,Kings Cross,00:39,1,every 00:08,,,,00:39
+Harpenden,451155,Moorgate,00:45,1,every 00:09,,,,00:45
+Harpenden,451155,London Bridge,00:45,0,every 00:12,,,,00:45
+Harringay,438758,Kings Cross,00:16,1,every 00:04,,,,00:16
+Harringay,438758,Moorgate,00:17,0,every 00:04,,,,00:17
+Harringay,438758,London Bridge,00:23,1,every 00:05,,,,00:23
+Harringay,438758,Blackfriars,00:31,1,every 00:09,,,,00:31
+Harringay Green Lanes,438758,Euston,00:35,2,every 00:05,,,,00:35
+Harrow-on-the-Hill,359987,Marylebone,00:15,0,every 00:28,,,,00:15
+Hatch End,359987,Euston,00:27,0,every 00:20,,,,00:27
+Hatfield (Hertfordshire),315934,Kings Cross,00:26,0,every 00:12,,,,00:26
+Hatfield (Hertfordshire),315934,Moorgate,00:37,0,every 00:07,,,,00:37
+Hatfield (Hertfordshire),315934,London Bridge,00:44,1,every 00:07,,,,00:44
+Hatfield (Hertfordshire),315934,Blackfriars,00:52,1,every 00:08,,,,00:52
+Hatfield Peverel,229818,Liverpool Street,00:43,0,every 00:33,,,,00:43
+Headstone Lane,359987,Euston,00:25,0,every 00:20,,,,00:25
+Hemel Hempstead,343109,Euston,00:28,0,every 00:14,,,,00:28
+Hendon,465297,Blackfriars,00:27,0,every 00:18,,,,00:27
+Hendon,465297,Kings Cross,00:31,1,every 00:18,,,,00:31
+Hendon,465297,Moorgate,00:36,1,every 00:18,,,,00:36
+Hendon,465297,London Bridge,00:38,1,every 00:18,,,,00:38
+Hertford East,322619,Liverpool Street,00:50,0,every 00:28,,,,00:50
+Hertford North,322619,Moorgate,00:42,0,every 00:07,,,,00:42
+Hertford North,322619,Kings Cross,00:44,1,every 00:07,,,,00:44
+Hertford North,322619,London Bridge,00:49,1,every 00:07,,,,00:49
+Hertford North,322619,Blackfriars,00:57,1,every 00:08,,,,00:57
+High Wycombe,347090,Marylebone,00:30,0,every 00:14,,,,00:30
+Highams Park,256029,Liverpool Street,00:25,0,every 00:15,,,,00:25
+Highbury & Islington,526314,London Bridge,00:17,1,every 00:05,,,,00:17
+Highbury & Islington,526314,Blackfriars,00:25,1,every 00:05,,,,00:25
+Hitchin,274270,Kings Cross,00:29,0,every 00:07,,,,00:29
+Hitchin,274270,Moorgate,00:44,1,every 00:13,,,,00:44
+Hitchin,274270,London Bridge,00:51,2,every 00:13,,,,00:51
+Hornsey,438758,Kings Cross,00:18,1,every 00:04,,,,00:18
+Hornsey,438758,Moorgate,00:19,0,every 00:04,,,,00:19
+Hornsey,438758,London Bridge,00:25,1,every 00:05,,,,00:25
+Hornsey,438758,Blackfriars,00:33,1,every 00:09,,,,00:33
+How Wood (Hertfordshire),451155,Euston,00:37,1,every 00:42,,,,00:37
+Huntingdon,210913,Kings Cross,00:50,0,every 00:15,,,,00:50
+Ingatestone,341139,Liverpool Street,00:31,0,every 00:18,,,,00:31
+Kelvedon,229818,Liverpool Street,00:50,0,every 00:12,,,,00:50
+Kensal Rise,421527,Euston,00:28,1,every 00:10,,,,00:28
+Kentish Town,824485,Blackfriars,00:16,0,every 00:18,,,,00:16
+Kentish Town,824485,Kings Cross,00:20,1,every 00:18,,,,00:20
+Kentish Town,824485,Moorgate,00:25,1,every 00:18,,,,00:25
+Kentish Town,824485,London Bridge,00:27,1,every 00:19,,,,00:27
+Kentish Town West,824485,Euston,00:30,1,every 00:07,,,,00:30
+Kenton,421527,Euston,00:21,0,every 00:06,,,,00:21
+Kings Cross,824485,Moorgate,00:15,1,every 00:04,,,,00:15
+Kings Cross,824485,London Bridge,00:21,0,every 00:06,,,,00:21
+Kings Cross,824485,Blackfriars,00:28,1,every 00:04,,,,00:28
+Kings Langley,454193,Euston,00:24,0,every 00:24,,,,00:24
+Knebworth,274270,Kings Cross,00:24,0,every 00:16,,,,00:24
+Knebworth,274270,Moorgate,00:35,1,every 00:17,,,,00:35
+Knebworth,274270,London Bridge,00:42,1,every 00:20,,,,00:42
+Knebworth,274270,Blackfriars,00:57,2,every 00:20,,,,00:57
+Leagrave,159988,Blackfriars,00:48,0,every 00:08,,,,00:48
+Leagrave,159988,Kings Cross,00:52,1,every 00:08,,,,00:52
+Leagrave,159988,Moorgate,00:57,1,every 00:10,,,,00:57
+Leagrave,159988,London Bridge,00:58,0,every 00:12,,,,00:58
+Leighton Buzzard,175100,Euston,00:32,0,every 00:14,,,,00:32
+Letchworth Garden City,274270,Kings Cross,00:33,0,every 00:08,,,,00:33
+Letchworth Garden City,274270,Moorgate,00:49,1,every 00:12,,,,00:49
+Letchworth Garden City,274270,London Bridge,00:56,1,every 00:10,,,,00:56
+Little Kimble,347090,Marylebone,00:56,0,every 00:45,,,,00:56
+Luton,159988,Blackfriars,00:42,0,every 00:08,,,,00:42
+Luton,159988,Kings Cross,00:44,1,every 00:06,,,,00:44
+Luton,159988,Moorgate,00:51,1,every 00:09,,,,00:51
+Luton,159988,London Bridge,00:54,0,every 00:09,,,,00:54
+Luton Airport Parkway,159988,Kings Cross,00:42,1,every 00:08,,,,00:42
+Luton Airport Parkway,159988,Blackfriars,00:43,0,every 00:08,,,,00:43
+Luton Airport Parkway,159988,London Bridge,00:51,0,every 00:09,,,,00:51
+Luton Airport Parkway,159988,Moorgate,00:52,1,every 00:05,,,,00:52
+Manningtree,180264,Liverpool Street,00:58,0,every 00:12,,,,00:58
+Marks Tey,214162,Liverpool Street,00:54,0,every 00:12,,,,00:54
+Meldreth,303061,Kings Cross,00:49,0,every 00:38,,,,00:49
+Mill Hill Broadway,465297,Blackfriars,00:27,0,every 00:09,,,,00:27
+Mill Hill Broadway,465297,Kings Cross,00:30,1,every 00:09,,,,00:30
+Mill Hill Broadway,465297,Moorgate,00:36,1,every 00:09,,,,00:36
+Mill Hill Broadway,465297,London Bridge,00:39,1,every 00:11,,,,00:39
+Milton Keynes Central,219344,Euston,00:35,0,every 00:14,,,,00:35
+Monks Risborough,347090,Marylebone,00:52,0,every 00:45,,,,00:52
+New Barnet,465297,Kings Cross,00:20,0,every 00:13,,,,00:20
+New Barnet,465297,Moorgate,00:25,0,every 00:10,,,,00:25
+New Barnet,465297,London Bridge,00:32,1,every 00:11,,,,00:32
+New Barnet,465297,Blackfriars,00:40,1,every 00:10,,,,00:40
+New Southgate,307394,Kings Cross,00:15,0,every 00:13,,,,00:15
+New Southgate,307394,Moorgate,00:20,0,every 00:10,,,,00:20
+New Southgate,307394,London Bridge,00:27,1,every 00:11,,,,00:27
+New Southgate,307394,Blackfriars,00:35,1,every 00:10,,,,00:35
+North Fambridge,226637,Liverpool Street,00:56,0,every 00:43,,,,00:56
+North Wembley,421527,Euston,00:25,0,every 00:06,,,,00:25
+Northampton,166689,Euston,00:48,0,every 00:20,,,,00:48
+Northolt Park,410927,Marylebone,00:17,0,every 00:28,,,,00:17
+Northumberland Park,438758,Liverpool Street,00:19,0,every 00:29,,,,00:19
+Oakleigh Park,465297,Kings Cross,00:18,0,every 00:13,,,,00:18
+Oakleigh Park,465297,Moorgate,00:23,0,every 00:10,,,,00:23
+Oakleigh Park,465297,London Bridge,00:30,1,every 00:11,,,,00:30
+Oakleigh Park,465297,Blackfriars,00:38,1,every 00:10,,,,00:38
+Palmers Green,307394,Moorgate,00:24,0,every 00:09,,,,00:24
+Palmers Green,307394,Kings Cross,00:24,1,every 00:08,,,,00:24
+Palmers Green,307394,London Bridge,00:30,1,every 00:08,,,,00:30
+Palmers Green,307394,Blackfriars,00:37,1,every 00:06,,,,00:37
+Park Street,451155,Euston,00:39,1,every 00:42,,,,00:39
+Peterborough,163344,Kings Cross,00:54,0,every 00:11,,,,00:54
+Ponders End,307394,Liverpool Street,00:22,0,every 00:31,,,,00:22
+Potters Bar,428279,Kings Cross,00:25,0,every 00:13,,,,00:25
+Potters Bar,428279,Moorgate,00:32,0,every 00:10,,,,00:32
+Potters Bar,428279,London Bridge,00:39,1,every 00:10,,,,00:39
+Potters Bar,428279,Blackfriars,00:47,1,every 00:10,,,,00:47
+Princes Risborough,347090,Marylebone,00:36,0,every 00:17,,,,00:36
+Radlett,428279,Blackfriars,00:35,0,every 00:08,,,,00:35
+Radlett,428279,Kings Cross,00:38,1,every 00:08,,,,00:38
+Radlett,428279,Moorgate,00:44,1,every 00:08,,,,00:44
+Radlett,428279,London Bridge,00:47,1,every 00:10,,,,00:47
+Rectory Road,390127,Liverpool Street,00:15,0,every 00:10,,,,00:15
+Rickmansworth,359987,Marylebone,00:27,0,every 01:04,,,,00:27
+Roydon,322619,Liverpool Street,00:36,0,every 00:18,,,,00:36
+Royston,274270,Kings Cross,00:38,0,every 00:11,,,,00:38
+Rugby,192915,Euston,00:49,0,every 00:20,,,,00:49
+Rye House,245865,Liverpool Street,00:39,0,every 00:28,,,,00:39
+Sandy,251158,Kings Cross,00:43,0,every 00:20,,,,00:43
+Sandy,251158,Moorgate,00:59,1,every 00:45,,,,00:59
+Saunderton,347090,Marylebone,00:42,0,every 00:22,,,,00:42
+Sawbridgeworth,361911,Liverpool Street,00:39,0,every 00:15,,,,00:39
+Seer Green,536037,Marylebone,00:28,0,every 00:26,,,,00:28
+Seven Sisters,438758,Liverpool Street,00:16,0,every 00:07,,,,00:16
+Shenfield,341139,Liverpool Street,00:29,0,every 00:05,,,,00:29
+Shepreth,303061,Kings Cross,00:52,0,every 00:38,,,,00:52
+Silver Street,307394,Liverpool Street,00:26,0,every 00:10,,,,00:26
+South Kenton,421527,Euston,00:23,0,every 00:06,,,,00:23
+South Ruislip,306484,Marylebone,00:17,0,every 00:15,,,,00:17
+South Tottenham,438758,Euston,00:39,1,every 00:11,,,,00:39
+Southbury,307394,Liverpool Street,00:31,0,every 00:27,,,,00:31
+St Albans,451155,Blackfriars,00:30,0,every 00:08,,,,00:30
+St Albans,451155,Kings Cross,00:32,1,every 00:08,,,,00:32
+St Albans,451155,London Bridge,00:38,0,every 00:12,,,,00:38
+St Albans,451155,Moorgate,00:39,1,every 00:09,,,,00:39
+St Albans Abbey,451155,Euston,00:42,1,every 00:21,,,,00:42
+St James Street,256029,Liverpool Street,00:16,0,every 00:15,,,,00:16
+St Margarets (Herts),322619,Liverpool Street,00:42,0,every 00:28,,,,00:42
+St Neots,210913,Kings Cross,00:43,0,every 00:14,,,,00:43
+St Pancras,824485,London Bridge,00:20,0,every 00:06,,,,00:20
+Stamford Hill,438758,Liverpool Street,00:20,0,every 00:15,,,,00:20
+Stansted Airport,365312,Liverpool Street,00:53,0,every 00:14,,,,00:53
+Stansted Mountfitchet,365312,Liverpool Street,00:47,0,every 00:19,,,,00:47
+Stevenage,190002,Kings Cross,00:24,0,every 00:07,,,,00:24
+Stevenage,190002,Moorgate,00:39,1,every 00:13,,,,00:39
+Stevenage,190002,London Bridge,00:46,2,every 00:13,,,,00:46
+Stevenage,190002,Blackfriars,00:54,2,every 00:06,,,,00:54
+Stoke Mandeville,273920,Marylebone,00:56,0,every 00:16,,,,00:56
+Stoke Newington,390127,Liverpool Street,00:16,0,every 00:10,,,,00:16
+Stonebridge Park,421527,Euston,00:23,0,every 00:11,,,,00:23
+Sudbury Hill Harrow,359987,Marylebone,00:17,0,every 00:25,,,,00:17
+Theobalds Grove,245865,Liverpool Street,00:38,0,every 00:15,,,,00:38
+Tottenham Hale,438758,Liverpool Street,00:16,0,every 00:06,,,,00:16
+Tring,343109,Euston,00:37,0,every 00:14,,,,00:37
+Turkey Street,307394,Liverpool Street,00:34,0,every 00:27,,,,00:34
+Upper Holloway,526314,Euston,00:44,1,every 00:07,,,,00:44
+Waltham Cross,245865,Liverpool Street,00:28,0,every 00:13,,,,00:28
+Walthamstow Central,256029,Liverpool Street,00:19,0,every 00:15,,,,00:19
+Ware (Herts),322619,Liverpool Street,00:46,0,every 00:28,,,,00:46
+Watford High Street,269245,Euston,00:31,1,every 00:15,,,,00:31
+Watford Junction,269245,Euston,00:19,0,every 00:05,,,,00:19
+Watford North,269245,Euston,00:29,1,every 00:42,,,,00:29
+Watton-at-Stone,322619,Moorgate,00:48,0,every 00:24,,,,00:48
+Watton-at-Stone,322619,Kings Cross,00:50,1,every 00:24,,,,00:50
+Watton-at-Stone,322619,London Bridge,00:55,1,every 00:24,,,,00:55
+Welham Green,315934,Kings Cross,00:37,1,every 00:13,,,,00:37
+Welham Green,315934,Moorgate,00:37,0,every 00:15,,,,00:37
+Welham Green,315934,London Bridge,00:44,1,every 00:15,,,,00:44
+Welham Green,315934,Blackfriars,00:52,1,every 00:16,,,,00:52
+Welwyn Garden City,315934,Kings Cross,00:23,0,every 00:22,,,,00:23
+Welwyn Garden City,315934,Moorgate,00:34,0,every 00:10,,,,00:34
+Welwyn Garden City,315934,London Bridge,00:41,1,every 00:11,,,,00:41
+Welwyn Garden City,315934,Blackfriars,00:49,1,every 00:11,,,,00:49
+Welwyn North,315934,Kings Cross,00:21,0,every 00:19,,,,00:21
+Welwyn North,315934,Moorgate,00:38,1,every 00:18,,,,00:38
+Welwyn North,315934,London Bridge,00:45,1,every 00:20,,,,00:45
+Welwyn North,315934,Blackfriars,00:53,2,every 00:20,,,,00:53
+Wembley Central,421527,Euston,00:24,0,every 00:20,,,,00:24
+Wendover,273920,Marylebone,00:51,0,every 00:16,,,,00:51
+West Hampstead,824485,Blackfriars,00:30,1,every 00:18,,,,00:30
+West Hampstead,824485,Kings Cross,00:32,1,every 00:05,,,,00:32
+West Hampstead,824485,Moorgate,00:39,2,every 00:11,,,,00:39
+West Hampstead,824485,London Bridge,00:53,2,every 00:11,,,,00:53
+West Ruislip,306484,Marylebone,00:25,0,every 00:50,,,,00:25
+White Hart Lane,438758,Liverpool Street,00:24,0,every 00:10,,,,00:24
+White Notley,229818,Liverpool Street,00:55,0,every 00:51,,,,00:55
+Willesden Junction,421527,Euston,00:16,0,every 00:22,,,,00:16
+Winchmore Hill,307394,Moorgate,00:26,0,every 00:08,,,,00:26
+Winchmore Hill,307394,Kings Cross,00:26,1,every 00:08,,,,00:26
+Winchmore Hill,307394,London Bridge,00:32,1,every 00:08,,,,00:32
+Winchmore Hill,307394,Blackfriars,00:39,1,every 00:06,,,,00:39
+Witham,229818,Liverpool Street,00:45,0,every 00:06,,,,00:45
+Wolverton,219344,Euston,00:44,0,every 00:20,,,,00:44
+Wood Street,256029,Liverpool Street,00:21,0,every 00:15,,,,00:21
+
+Data exported from commutefrom.com

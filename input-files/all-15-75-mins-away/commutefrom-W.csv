@@ -1,0 +1,308 @@
+From (train),House Price,To (train),Train time,Changes,Frequency,From (tube),To (tube),Tube time,Total time
+Acton Central,410927,Euston,00:35,1,every 00:23,,,,00:35
+Addlestone,332113,Waterloo,00:54,1,every 00:15,,,,00:54
+Aldermaston,313230,Paddington,00:56,1,every 00:35,,,,00:56
+Aldershot,217862,Waterloo,00:47,0,every 00:17,,,,00:47
+Amersham,536037,Marylebone,00:39,0,every 00:16,,,,00:39
+Appleford,330692,Paddington,00:57,1,every 00:24,,,,00:57
+Apsley,343109,Euston,00:27,0,every 00:24,,,,00:27
+Ascot,431298,Waterloo,00:56,0,every 00:12,,,,00:56
+Ash,438370,Waterloo,00:54,1,every 00:13,,,,00:54
+Ash Vale,438370,Waterloo,00:42,0,every 00:25,,,,00:42
+Ashford (Middlesex),300247,Waterloo,00:38,0,every 00:13,,,,00:38
+Ashtead,454383,Waterloo,00:41,0,every 00:15,,,,00:41
+Ashtead,454383,Victoria,00:44,0,every 00:10,,,,00:44
+Ashtead,454383,London Bridge,00:46,0,every 00:18,,,,00:46
+Balham,569614,Waterloo,00:25,1,every 00:05,,,,00:25
+Balham,569614,London Bridge,00:34,0,every 00:13,,,,00:34
+Balham,569614,Charing Cross,00:34,1,every 00:05,,,,00:34
+Banbury,268977,Marylebone,00:55,0,every 00:16,,,,00:55
+Barnes,592341,Waterloo,00:22,0,every 00:07,,,,00:22
+Barnes Bridge,592341,Waterloo,00:25,0,every 00:15,,,,00:25
+Basingstoke,259175,Waterloo,00:44,0,every 00:16,,,,00:44
+Basingstoke,259175,Paddington,00:53,1,every 00:15,,,,00:53
+Battersea Park,569614,London Bridge,00:23,0,every 00:15,,,,00:23
+Battersea Park,569614,Waterloo,00:23,1,every 00:04,,,,00:23
+Battersea Park,569614,Charing Cross,00:28,1,every 00:05,,,,00:28
+Beaconsfield,565049,Marylebone,00:23,0,every 00:14,,,,00:23
+Berkhamsted,343109,Euston,00:33,0,every 00:14,,,,00:33
+Berrylands,412144,Waterloo,00:27,0,every 00:30,,,,00:27
+Bicester North,268977,Marylebone,00:50,0,every 00:16,,,,00:50
+Bookham,454383,Waterloo,00:49,0,every 00:19,,,,00:49
+Bourne End,347090,Paddington,00:40,0,every 00:34,,,,00:40
+Bramley (Hampshire),259175,Paddington,00:55,1,every 00:29,,,,00:55
+Brentford,382711,Waterloo,00:32,0,every 00:15,,,,00:32
+Brixton,411350,Blackfriars,00:18,1,every 00:15,,,,00:18
+Brixton,411350,Charing Cross,00:31,1,every 00:07,,,,00:31
+Brixton,411350,Waterloo,00:34,1,every 00:07,,,,00:34
+Brixton,411350,London Bridge,00:39,1,every 00:07,,,,00:39
+Brixton,411350,Cannon Street,00:39,1,every 00:15,,,,00:39
+Brondesbury,421527,Euston,00:34,1,every 00:09,,,,00:34
+Brondesbury Park,421527,Euston,00:33,1,every 00:09,,,,00:33
+Brookwood,357859,Waterloo,00:35,0,every 00:10,,,,00:35
+Burnham (Buckinghamshire),215474,Paddington,00:33,0,every 00:11,,,,00:33
+Byfleet & New Haw,332113,Waterloo,00:37,0,every 00:19,,,,00:37
+Camden Road,824485,Euston,00:25,1,every 00:05,,,,00:25
+Castle Bar Park,410927,Paddington,00:20,0,every 00:30,,,,00:20
+Chalfont & Latimer,536037,Marylebone,00:35,0,every 00:21,,,,00:35
+Chertsey,332113,Waterloo,00:56,1,every 00:15,,,,00:56
+Chessington North,412144,Waterloo,00:35,0,every 00:30,,,,00:35
+Chessington South,412144,Waterloo,00:37,0,every 00:30,,,,00:37
+Chilworth,438370,Waterloo,00:55,1,every 00:00,,,,00:55
+Chiswick,382711,Waterloo,00:27,0,every 00:15,,,,00:27
+Cholsey,375765,Paddington,00:59,0,every 00:17,,,,00:59
+Clandon,438370,Waterloo,00:47,0,every 00:22,,,,00:47
+Clapham High Street,411350,London Bridge,00:19,0,every 00:30,,,,00:19
+Clapham High Street,411350,Charing Cross,00:32,1,every 00:15,,,,00:32
+Clapham High Street,411350,Waterloo,00:35,2,every 00:13,,,,00:35
+Clapham Junction,569614,Charing Cross,00:29,1,every 00:05,,,,00:29
+Clapham Junction,569614,London Bridge,00:32,0,every 00:04,,,,00:32
+Claygate,660853,Waterloo,00:29,0,every 00:22,,,,00:29
+Cobham & Stoke DAbernon,660853,Waterloo,00:36,0,every 00:22,,,,00:36
+Cookham,431298,Paddington,00:37,0,every 00:34,,,,00:37
+Coventry,143837,Euston,00:57,0,every 00:22,,,,00:57
+Cricklewood,465297,Blackfriars,00:23,0,every 00:18,,,,00:23
+Cricklewood,465297,Kings Cross,00:27,1,every 00:18,,,,00:27
+Cricklewood,465297,Moorgate,00:32,1,every 00:18,,,,00:32
+Cricklewood,465297,London Bridge,00:34,1,every 00:18,,,,00:34
+Crowthorne,285085,Paddington,00:55,1,every 00:25,,,,00:55
+Culham,375765,Paddington,00:59,0,every 00:24,,,,00:59
+Datchet,431298,Waterloo,00:53,0,every 00:30,,,,00:53
+Denham,565049,Marylebone,00:20,0,every 00:23,,,,00:20
+Denham Golf Club,565049,Marylebone,00:29,0,every 00:33,,,,00:29
+Didcot Parkway,375765,Paddington,00:43,0,every 00:10,,,,00:43
+Drayton Green,410927,Paddington,00:18,0,every 00:30,,,,00:18
+Earley,323034,Paddington,00:39,1,every 00:30,,,,00:39
+Earlsfield,569614,Waterloo,00:15,0,every 00:03,,,,00:15
+Effingham Junction,438370,Waterloo,00:39,0,every 00:22,,,,00:39
+Egham,332113,Waterloo,00:43,0,every 00:08,,,,00:43
+Epsom,360369,Waterloo,00:36,0,every 00:10,,,,00:36
+Epsom,360369,Victoria,00:37,0,every 00:11,,,,00:37
+Epsom,360369,London Bridge,00:41,0,every 00:13,,,,00:41
+Epsom Downs,350380,London Bridge,00:53,1,every 00:30,,,,00:53
+Epsom Downs,350380,Victoria,00:55,0,every 00:30,,,,00:55
+Esher,660853,Waterloo,00:23,0,every 00:11,,,,00:23
+Ewell East,360369,Waterloo,00:48,1,every 00:15,,,,00:48
+Ewell West,360369,Waterloo,00:35,0,every 00:10,,,,00:35
+Ewell West,360369,Victoria,00:42,1,every 00:11,,,,00:42
+Ewell West,360369,London Bridge,00:56,1,every 00:12,,,,00:56
+Farnborough Main,217862,Waterloo,00:38,0,every 00:14,,,,00:38
+Farncombe,439335,Waterloo,00:43,0,every 00:17,,,,00:43
+Farnham,439335,Waterloo,00:53,0,every 00:25,,,,00:53
+Feltham,382711,Waterloo,00:31,0,every 00:09,,,,00:31
+Finchley Road & Frognal,824485,Euston,00:35,1,every 00:05,,,,00:35
+Fleet,373655,Waterloo,00:44,0,every 00:14,,,,00:44
+Fulwell,592341,Waterloo,00:39,0,every 00:14,,,,00:39
+Furze Platt,431298,Paddington,00:33,0,every 00:34,,,,00:33
+Gerrards Cross,565049,Marylebone,00:24,0,every 00:12,,,,00:24
+Godalming,439335,Waterloo,00:46,0,every 00:14,,,,00:46
+Goring & Streatley,375765,Paddington,00:54,0,every 00:17,,,,00:54
+Gospel Oak,824485,Euston,00:32,1,every 00:07,,,,00:32
+Great Missenden,536037,Marylebone,00:45,0,every 00:16,,,,00:45
+Greenford,410927,Paddington,00:26,0,every 00:30,,,,00:26
+Guildford,438370,Waterloo,00:37,0,every 00:11,,,,00:37
+Gunnersbury,382711,Euston,00:42,1,every 00:09,,,,00:42
+Haddenham & Thame Parkway,273920,Marylebone,00:44,0,every 00:20,,,,00:44
+Hampstead Heath,824485,Euston,00:34,1,every 00:07,,,,00:34
+Hampton,592341,Waterloo,00:42,0,every 00:14,,,,00:42
+Hampton Court,660853,Waterloo,00:32,0,every 00:30,,,,00:32
+Hampton Wick,592341,Waterloo,00:35,0,every 00:09,,,,00:35
+Hanwell,410927,Paddington,00:15,0,every 00:15,,,,00:15
+Harlesden,421527,Euston,00:19,0,every 00:15,,,,00:19
+Harrow-on-the-Hill,359987,Marylebone,00:15,0,every 00:28,,,,00:15
+Haslemere,439335,Waterloo,00:52,0,every 00:09,,,,00:52
+Hatch End,359987,Euston,00:27,0,every 00:20,,,,00:27
+Haydons Road,450538,Blackfriars,00:27,0,every 00:30,,,,00:27
+Haydons Road,450538,London Bridge,00:35,1,every 00:13,,,,00:35
+Haydons Road,450538,Moorgate,00:46,1,every 00:30,,,,00:46
+Haydons Road,450538,Kings Cross,00:50,1,every 00:11,,,,00:50
+Hayes & Harlington,306484,Paddington,00:19,0,every 00:09,,,,00:19
+Headstone Lane,359987,Euston,00:25,0,every 00:20,,,,00:25
+Hemel Hempstead,343109,Euston,00:28,0,every 00:14,,,,00:28
+Hendon,465297,Blackfriars,00:27,0,every 00:18,,,,00:27
+Hendon,465297,Kings Cross,00:31,1,every 00:18,,,,00:31
+Hendon,465297,Moorgate,00:36,1,every 00:18,,,,00:36
+Hendon,465297,London Bridge,00:38,1,every 00:18,,,,00:38
+Henley-on-Thames,375765,Paddington,00:44,0,every 00:32,,,,00:44
+Hersham,660853,Waterloo,00:26,0,every 00:11,,,,00:26
+High Wycombe,347090,Marylebone,00:30,0,every 00:14,,,,00:30
+Hinchley Wood,660853,Waterloo,00:26,0,every 00:22,,,,00:26
+Hook,373655,Waterloo,00:53,0,every 00:18,,,,00:53
+Horsley,438370,Waterloo,00:43,0,every 00:22,,,,00:43
+Hounslow,382711,Waterloo,00:40,0,every 00:15,,,,00:40
+Isleworth,382711,Waterloo,00:37,0,every 00:15,,,,00:37
+Iver,565049,Paddington,00:27,0,every 00:20,,,,00:27
+Kempton Park,300247,Waterloo,00:46,0,every 00:00,,,,00:46
+Kensal Rise,421527,Euston,00:28,1,every 00:10,,,,00:28
+Kensington (Olympia),1683055,Euston,00:37,1,every 00:10,,,,00:37
+Kentish Town,824485,Blackfriars,00:16,0,every 00:18,,,,00:16
+Kentish Town,824485,Kings Cross,00:20,1,every 00:18,,,,00:20
+Kentish Town,824485,Moorgate,00:25,1,every 00:18,,,,00:25
+Kentish Town,824485,London Bridge,00:27,1,every 00:19,,,,00:27
+Kentish Town West,824485,Euston,00:30,1,every 00:07,,,,00:30
+Kenton,421527,Euston,00:21,0,every 00:06,,,,00:21
+Kew Bridge,382711,Waterloo,00:30,0,every 00:15,,,,00:30
+Kew Gardens (London),592341,Euston,00:45,1,every 00:07,,,,00:45
+Kingston,412144,Waterloo,00:31,0,every 00:09,,,,00:31
+Kingswood,350380,London Bridge,00:43,0,every 00:15,,,,00:43
+Kingswood,350380,Victoria,00:49,0,every 00:15,,,,00:49
+Kingswood,350380,Waterloo,00:59,1,every 00:15,,,,00:59
+Langley (Berkshire),215474,Paddington,00:30,0,every 00:13,,,,00:30
+Leatherhead,454383,Waterloo,00:45,0,every 00:15,,,,00:45
+Leatherhead,454383,Victoria,00:47,0,every 00:10,,,,00:47
+Leatherhead,454383,London Bridge,00:50,0,every 00:18,,,,00:50
+Little Kimble,347090,Marylebone,00:56,0,every 00:45,,,,00:56
+London Road (Guildford),438370,Waterloo,00:47,0,every 00:10,,,,00:47
+Longcross,332113,Waterloo,00:48,0,every 00:30,,,,00:48
+Loughborough Junction,411350,Moorgate,00:27,1,every 00:08,,,,00:27
+Loughborough Junction,411350,Kings Cross,00:34,1,every 00:09,,,,00:34
+Loughborough Junction,411350,London Bridge,00:34,1,every 00:06,,,,00:34
+Maidenhead,431298,Paddington,00:24,0,every 00:10,,,,00:24
+Malden Manor,412144,Waterloo,00:30,0,every 00:30,,,,00:30
+Marlow,347090,Paddington,00:50,1,every 00:34,,,,00:50
+Micheldever,379922,Waterloo,00:57,0,every 00:41,,,,00:57
+Milford (Surrey),439335,Waterloo,00:50,0,every 00:24,,,,00:50
+Mill Hill Broadway,465297,Blackfriars,00:27,0,every 00:09,,,,00:27
+Mill Hill Broadway,465297,Kings Cross,00:30,1,every 00:09,,,,00:30
+Mill Hill Broadway,465297,Moorgate,00:36,1,every 00:09,,,,00:36
+Mill Hill Broadway,465297,London Bridge,00:39,1,every 00:11,,,,00:39
+Monks Risborough,347090,Marylebone,00:52,0,every 00:45,,,,00:52
+Mortimer,313230,Paddington,00:50,1,every 00:29,,,,00:50
+Mortlake,592341,Waterloo,00:26,0,every 00:14,,,,00:26
+Motspur Park,450538,Waterloo,00:26,0,every 00:08,,,,00:26
+New Malden,412144,Waterloo,00:24,0,every 00:05,,,,00:24
+Newbury,313230,Paddington,00:49,0,every 00:19,,,,00:49
+Norbiton,412144,Waterloo,00:29,0,every 00:09,,,,00:29
+Norbury,271598,Victoria,00:22,0,every 00:07,,,,00:22
+Norbury,271598,London Bridge,00:31,0,every 00:12,,,,00:31
+Norbury,271598,Waterloo,00:33,1,every 00:07,,,,00:33
+Norbury,271598,Charing Cross,00:45,1,every 00:05,,,,00:45
+North Camp,438370,Waterloo,00:57,1,every 00:14,,,,00:57
+North Sheen,592341,Waterloo,00:27,0,every 00:07,,,,00:27
+North Wembley,421527,Euston,00:25,0,every 00:06,,,,00:25
+Northolt Park,410927,Marylebone,00:17,0,every 00:28,,,,00:17
+Overton,259175,Waterloo,00:55,0,every 00:30,,,,00:55
+Oxford,377642,Paddington,00:58,0,every 00:19,,,,00:58
+Oxshott,660853,Waterloo,00:32,0,every 00:22,,,,00:32
+Pangbourne,313230,Paddington,00:49,0,every 00:17,,,,00:49
+Princes Risborough,347090,Marylebone,00:36,0,every 00:17,,,,00:36
+Putney,569614,Waterloo,00:17,0,every 00:06,,,,00:17
+Raynes Park,450538,Waterloo,00:23,0,every 00:04,,,,00:23
+Reading,248486,Paddington,00:26,0,every 00:04,,,,00:26
+Reading West,248486,Paddington,00:35,0,every 00:15,,,,00:35
+Richmond,592341,Waterloo,00:21,0,every 00:08,,,,00:21
+Rickmansworth,359987,Marylebone,00:27,0,every 01:04,,,,00:27
+Rugby,192915,Euston,00:49,0,every 00:20,,,,00:49
+Sandhurst (Berks),285085,Paddington,00:59,1,every 00:25,,,,00:59
+Saunderton,347090,Marylebone,00:42,0,every 00:22,,,,00:42
+Seer Green,536037,Marylebone,00:28,0,every 00:26,,,,00:28
+Shalford,438370,Waterloo,00:50,1,every 00:23,,,,00:50
+Shepperton,300247,Waterloo,00:51,0,every 00:15,,,,00:51
+Shiplake,375765,Paddington,00:40,0,every 00:32,,,,00:40
+Slough,215474,Paddington,00:28,0,every 00:11,,,,00:28
+South Acton,410927,Euston,00:38,1,every 00:22,,,,00:38
+South Greenford,410927,Paddington,00:23,0,every 00:30,,,,00:23
+South Kenton,421527,Euston,00:23,0,every 00:06,,,,00:23
+South Merton,450538,Waterloo,00:30,1,every 00:31,,,,00:30
+South Merton,450538,Blackfriars,00:36,0,every 00:31,,,,00:36
+South Merton,450538,London Bridge,00:46,0,every 00:13,,,,00:46
+South Merton,450538,Kings Cross,00:51,1,every 00:25,,,,00:51
+South Merton,450538,Moorgate,00:57,1,every 00:31,,,,00:57
+South Ruislip,306484,Marylebone,00:17,0,every 00:15,,,,00:17
+Southall,410927,Paddington,00:18,0,every 00:11,,,,00:18
+St Margarets (London),592341,Waterloo,00:30,0,every 00:15,,,,00:30
+St Pancras,824485,London Bridge,00:20,0,every 00:06,,,,00:20
+Staines,300247,Waterloo,00:37,0,every 00:08,,,,00:37
+Stoke Mandeville,273920,Marylebone,00:56,0,every 00:16,,,,00:56
+Stonebridge Park,421527,Euston,00:23,0,every 00:11,,,,00:23
+Stoneleigh,360369,Waterloo,00:32,0,every 00:15,,,,00:32
+Strawberry Hill,592341,Waterloo,00:37,0,every 00:12,,,,00:37
+Streatham,411350,Blackfriars,00:19,0,every 00:16,,,,00:19
+Streatham,411350,London Bridge,00:23,0,every 00:10,,,,00:23
+Streatham,411350,Victoria,00:25,1,every 00:16,,,,00:25
+Streatham,411350,Charing Cross,00:32,1,every 00:13,,,,00:32
+Streatham,411350,Waterloo,00:34,1,every 00:20,,,,00:34
+Streatham,411350,Moorgate,00:38,1,every 00:13,,,,00:38
+Streatham,411350,Kings Cross,00:46,1,every 00:11,,,,00:46
+Streatham Common,411350,Victoria,00:19,0,every 00:07,,,,00:19
+Streatham Common,411350,London Bridge,00:28,0,every 00:13,,,,00:28
+Streatham Common,411350,Waterloo,00:30,1,every 00:07,,,,00:30
+Streatham Common,411350,Charing Cross,00:42,1,every 00:05,,,,00:42
+Streatham Hill,411350,Victoria,00:19,0,every 00:15,,,,00:19
+Streatham Hill,411350,Waterloo,00:30,1,every 00:14,,,,00:30
+Streatham Hill,411350,London Bridge,00:31,0,every 00:13,,,,00:31
+Streatham Hill,411350,Charing Cross,00:41,1,every 00:14,,,,00:41
+Sudbury Hill Harrow,359987,Marylebone,00:17,0,every 00:25,,,,00:17
+Sunbury,300247,Waterloo,00:46,0,every 00:15,,,,00:46
+Sunningdale,431298,Waterloo,00:53,0,every 00:12,,,,00:53
+Sunnymeads,431298,Waterloo,00:50,0,every 00:30,,,,00:50
+Surbiton,412144,Waterloo,00:17,0,every 00:08,,,,00:17
+Syon Lane,382711,Waterloo,00:35,0,every 00:15,,,,00:35
+Tadworth,350380,London Bridge,00:46,0,every 00:15,,,,00:46
+Tadworth,350380,Victoria,00:52,0,every 00:15,,,,00:52
+Taplow,565049,Paddington,00:35,0,every 00:14,,,,00:35
+Tattenham Corner,350380,London Bridge,00:49,0,every 00:15,,,,00:49
+Tattenham Corner,350380,Victoria,00:55,0,every 00:15,,,,00:55
+Teddington,592341,Waterloo,00:37,0,every 00:07,,,,00:37
+Thames Ditton,660853,Waterloo,00:30,0,every 00:30,,,,00:30
+Thatcham,313230,Paddington,00:53,0,every 00:09,,,,00:53
+Theale,313230,Paddington,00:44,0,every 00:13,,,,00:44
+Tilehurst,248486,Paddington,00:45,0,every 00:17,,,,00:45
+Tolworth,412144,Waterloo,00:33,0,every 00:30,,,,00:33
+Tring,343109,Euston,00:37,0,every 00:14,,,,00:37
+Twickenham,592341,Waterloo,00:26,0,every 00:08,,,,00:26
+Twyford,323034,Paddington,00:32,0,every 00:14,,,,00:32
+Upper Halliford,300247,Waterloo,00:48,0,every 00:15,,,,00:48
+Victoria,1113360,Waterloo,00:17,0,every 00:04,,,,00:17
+Victoria,1113360,London Bridge,00:24,1,every 00:03,,,,00:24
+Virginia Water,332113,Waterloo,00:47,0,every 00:11,,,,00:47
+Walton-on-Thames,660853,Waterloo,00:29,0,every 00:12,,,,00:29
+Wanborough,438370,Waterloo,00:53,1,every 00:22,,,,00:53
+Wandsworth Common,569614,Waterloo,00:25,1,every 00:06,,,,00:25
+Wandsworth Common,569614,Charing Cross,00:36,1,every 00:06,,,,00:36
+Wandsworth Common,569614,London Bridge,00:40,1,every 00:07,,,,00:40
+Wandsworth Road,411350,London Bridge,00:21,0,every 00:30,,,,00:21
+Wandsworth Road,411350,Charing Cross,00:31,1,every 00:15,,,,00:31
+Wandsworth Road,411350,Waterloo,00:34,2,every 00:14,,,,00:34
+Wandsworth Town,569614,Waterloo,00:16,0,every 00:07,,,,00:16
+Wargrave,323034,Paddington,00:37,0,every 00:32,,,,00:37
+Wembley Central,421527,Euston,00:24,0,every 00:20,,,,00:24
+Wendover,273920,Marylebone,00:51,0,every 00:16,,,,00:51
+West Brompton,740383,Victoria,00:20,1,every 00:21,,,,00:20
+West Brompton,740383,Waterloo,00:33,1,every 00:15,,,,00:33
+West Brompton,740383,London Bridge,00:41,1,every 00:15,,,,00:41
+West Brompton,740383,Charing Cross,00:43,2,every 00:19,,,,00:43
+West Byfleet,357859,Waterloo,00:40,0,every 00:12,,,,00:40
+West Drayton,306484,Paddington,00:25,0,every 00:15,,,,00:25
+West Hampstead,824485,Blackfriars,00:30,1,every 00:18,,,,00:30
+West Hampstead,824485,Kings Cross,00:32,1,every 00:05,,,,00:32
+West Hampstead,824485,Moorgate,00:39,2,every 00:11,,,,00:39
+West Hampstead,824485,London Bridge,00:53,2,every 00:11,,,,00:53
+West Ruislip,306484,Marylebone,00:25,0,every 00:50,,,,00:25
+Weybridge,660853,Waterloo,00:34,0,every 00:17,,,,00:34
+Whitton,592341,Waterloo,00:29,0,every 00:13,,,,00:29
+Willesden Junction,421527,Euston,00:16,0,every 00:22,,,,00:16
+Wimbledon,450538,Waterloo,00:19,0,every 00:03,,,,00:19
+Wimbledon,450538,Blackfriars,00:34,0,every 00:08,,,,00:34
+Wimbledon,450538,Kings Cross,00:40,1,every 00:03,,,,00:40
+Wimbledon,450538,London Bridge,00:43,1,every 00:06,,,,00:43
+Wimbledon,450538,Moorgate,00:52,1,every 00:07,,,,00:52
+Wimbledon Chase,450538,Waterloo,00:28,1,every 00:31,,,,00:28
+Wimbledon Chase,450538,Blackfriars,00:36,0,every 00:31,,,,00:36
+Wimbledon Chase,450538,London Bridge,00:44,0,every 00:13,,,,00:44
+Wimbledon Chase,450538,Kings Cross,00:49,1,every 00:26,,,,00:49
+Wimbledon Chase,450538,Moorgate,00:55,1,every 00:23,,,,00:55
+Winchester,379922,Waterloo,00:58,0,every 00:10,,,,00:58
+Winchfield,373655,Waterloo,00:49,0,every 00:18,,,,00:49
+Windsor & Eton Central,431298,Paddington,00:30,1,every 00:19,,,,00:30
+Windsor & Eton Riverside,431298,Waterloo,00:56,0,every 00:22,,,,00:56
+Winnersh,323034,Paddington,00:44,1,every 00:30,,,,00:44
+Winnersh Triangle,323034,Paddington,00:42,1,every 00:30,,,,00:42
+Witley,439335,Waterloo,00:55,0,every 00:25,,,,00:55
+Woking,357859,Waterloo,00:27,0,every 00:05,,,,00:27
+Wokingham,323034,Paddington,00:47,1,every 00:15,,,,00:47
+Worcester Park,412144,Waterloo,00:29,0,every 00:10,,,,00:29
+Worplesdon,357859,Waterloo,00:31,0,every 00:28,,,,00:31
+Wraysbury,431298,Waterloo,00:47,0,every 00:30,,,,00:47
+
+Data exported from commutefrom.com
