@@ -1,3 +1,5 @@
+require_relative 'Area'
+
 class InputCsvParser
   def parse(file_name)
 
