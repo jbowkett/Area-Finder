@@ -4,12 +4,36 @@ require 'scrapi'
 require 'lib/area'
 require 'lib/input_csv_parser'
 
+ActiveRecord::Base.establish_connection(
+    :adapter  => "mysql",
+    :host     => "localhost",
+    :username => "root",
+    :password => "",
+    :database => "area_finder"
+)
+
+
 
 parser = InputCsvParser.new
 
 areas = parser.parse 'input-files/north-to-anywhere-10-50-minutes.csv'
 
-areas.each { |area| puts area }
+
+areas.each_value { |area|
+  puts area
+
+  Area.transaction do
+
+    area.journeys.each {
+      | journey |
+      journey.save
+    }
+    area.save
+
+  end
+
+
+}
 
 
 

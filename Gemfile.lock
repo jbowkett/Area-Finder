@@ -1,7 +1,11 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    activerecord (2.3.14)
+      activesupport (= 2.3.14)
+    activesupport (2.3.14)
     ffi (1.1.5)
+    mysql (2.8.1)
     scrapi (2.0.0)
       tidy_ffi (>= 0.1.2)
     tidy_ffi (0.1.4)
@@ -11,4 +15,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activerecord (~> 2.3.14)
+  mysql (~> 2.8)
   scrapi (~> 2.0.0)
