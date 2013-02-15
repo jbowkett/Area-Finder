@@ -8,7 +8,7 @@ class CSVFileAggregator
   end
 
   def aggregate
-    output = File.new("output.csv", "w")
+    output = File.new("commute-from-aggregated.csv", "w")
 
     output.write("Input File,Station,Average House Price,Destination,Duration,Frequency,Changes,Primary Schools Link,Secondary Schools Link\n")
 
