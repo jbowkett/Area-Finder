@@ -17,9 +17,9 @@ ActiveRecord::Schema.define(:version => 20130222213932) do
   end
 
   create_table "journeys", :force => true do |t|
-    t.string  "duration"
+    t.integer "duration"
     t.string  "destination_station"
-    t.string  "frequency"
+    t.integer "frequency"
     t.integer "changes"
     t.integer "area_id"
   end
