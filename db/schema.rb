@@ -12,8 +12,8 @@
 ActiveRecord::Schema.define(:version => 20130222213932) do
 
   create_table "areas", :force => true do |t|
-    t.string "name"
-    t.string "average_house_price"
+    t.string  "name"
+    t.integer "average_house_price"
   end
 
   create_table "journeys", :force => true do |t|
