@@ -1,4 +1,5 @@
 require 'active_record'
+require_relative 'Journey'
 
 class Area < ActiveRecord::Base
   has_many :journeys
