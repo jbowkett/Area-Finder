@@ -5,8 +5,7 @@ class AddJourneysTable < ActiveRecord::Migration
       t.string :destination_station
       t.string :frequency
       t.integer :changes
-      #t.integer :area_id
-      #t.foreign_key :areas
+
       t.references :area
     end
   end

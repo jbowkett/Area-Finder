@@ -7,13 +7,10 @@ class Area < ActiveRecord::Base
     super(:name => name, :average_house_price => average_house_price)
   end
 
-  #def add_journey(destination_station, duration, changes, frequency)
-  #  #save
-  #  journey = Journey.new(destination_station, duration, changes, frequency)
-  #  @journeys << journey
-  #  #journey.save!
-  #  #save!
-  #end
+  def add_journey(destination_station, duration, changes, frequency)
+    journey = Journey.new(destination_station, duration, changes, frequency)
+    journeys << journey
+  end
 end
 
 
