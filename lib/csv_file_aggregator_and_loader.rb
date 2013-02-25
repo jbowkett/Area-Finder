@@ -1,6 +1,6 @@
 require_relative 'input_csv_parser'
 
-class CSVFileAggregator
+class CSVFileAggregatorAndLoader
 
   def initialize(input_dir)
     @input_dir = input_dir
@@ -46,6 +46,6 @@ ActiveRecord::Base.establish_connection(
 
 input_dir = ARGV[0]
 
-aggregator = CSVFileAggregator.new(input_dir)
+aggregator = CSVFileAggregatorAndLoader.new(input_dir)
 
 aggregator.aggregate
