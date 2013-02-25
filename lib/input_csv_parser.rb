@@ -1,11 +1,11 @@
-require_relative 'Area'
+require_relative  '../app/models/area.rb'
 
 class InputCsvParser
   def parse(file_name)
 
     f = File.open(file_name)
 
-    areas = Hash.new
+    areas_map = Hash.new
     line_number = 0
 
     f.each_line { |line|
@@ -23,19 +23,17 @@ class InputCsvParser
       frequency = line_segments[5]
 
       # Add repeated journeys from inout file onto one area
-      area_obj = areas[area]
+      area_obj = areas_map[area]
       if area_obj == nil
 
         area_obj = Area.new(area, avg_house_price)
 
-        areas[area] = area_obj
+        areas_map[area] = area_obj
       end
 
-      journey = Journey.new(to_train_station, journey_time, changes, frequency)
-
-      area_obj.add_journey(journey)
+      area_obj.add_journey(to_train_station, journey_time, changes, frequency)
     }
-    areas
+    areas_map
   end
 end
 
