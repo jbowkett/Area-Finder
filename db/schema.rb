@@ -26,6 +26,7 @@ ActiveRecord::Schema.define(:version => 20130226193308) do
 
   create_table "schools", :force => true do |t|
     t.string  "name"
+    t.string  "address"
     t.string  "accepted_gender"
     t.string  "start_leave_age"
     t.string  "school_type"
