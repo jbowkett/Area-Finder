@@ -16,8 +16,10 @@ def download_schools
   puts 'Downloading schools data...'
   school_downloader = SchoolDownloader.new
   Area.all.each do |area|
-    school_downloader.inspect_area(area)
-    area.save!
+    if area.schools.size == 0
+      school_downloader.inspect_area(area)
+      area.save!
+    end
   end
   puts 'Schools data downloaded.'
 end
