@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130222213932) do
+ActiveRecord::Schema.define(:version => 20130226193308) do
 
   create_table "areas", :force => true do |t|
     t.string  "name"
@@ -21,6 +21,24 @@ ActiveRecord::Schema.define(:version => 20130222213932) do
     t.string  "destination_station"
     t.integer "frequency"
     t.integer "changes"
+    t.integer "area_id"
+  end
+
+  create_table "schools", :force => true do |t|
+    t.string  "name"
+    t.string  "accepted_gender"
+    t.string  "start_leave_age"
+    t.string  "school_type"
+    t.boolean "is_primary"
+    t.integer "overall_inspection_grade_for_school_effectiveness_score"
+    t.integer "achievement_score"
+    t.integer "pupil_behaviour_and_safety_score"
+    t.integer "quality_of_teaching_score"
+    t.integer "quality_of_leadership_score"
+    t.date    "date_of_most_recent_inspection"
+    t.float   "distance"
+    t.string  "school_rm_url"
+    t.string  "ofsted_url"
     t.integer "area_id"
   end
 
