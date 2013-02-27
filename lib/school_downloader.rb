@@ -22,23 +22,28 @@ class SchoolDownloader
   def inspect_search_results_url(area_to_decorate, results_url, is_primary_results)
     @session.visit(results_url)
 
-    puts 'Completed results url loading'
-    filter_button = @session.find_by_id('content_Nearest20Button')
-    filter_button.click
-    puts 'clicked on the filter'
-    search_button = @session.find_by_id('content_lnkFilterSearch')
-    search_button.click
-    puts 'clicked the search button'
-    school_urls = []
+    if update_number_of_results_required
+      school_urls = []
 
-    (0..19).each do |index|
-      a_tag = @session.find_by_id("content_lvSchoolSearchResults_lnkViewProfile_#{index}")
-      school_urls << a_tag['href']
-    end
+      (0..19).each do |index|
+        a_tag = do_css_find(@session, "#content_lvSchoolSearchResults_lnkViewProfile_#{index}")
+        school_urls << a_tag['href'] unless a_tag == nil
+      end
 
-    school_urls.each do |school_url|
-      inspect_school(area_to_decorate, school_url, is_primary_results)
+      school_urls.each do |school_url|
+        inspect_school(area_to_decorate, school_url, is_primary_results)
+      end
+    else
+      puts 'Cannot download from search url:[#{results_url}]'
     end
+  end
+
+  def update_number_of_results_required
+    filter_button = do_css_find(@session, '#content_Nearest20Button')
+    filter_button.click unless filter_button.nil?
+    search_button = do_css_find(@session, '#content_lnkFilterSearch')
+    search_button.click unless filter_button.nil?
+    !search_button.nil? && !filter_button.nil?
   end
 
   def inspect_school(area_to_decorate, school_url, is_primary_school)
@@ -67,7 +72,7 @@ class SchoolDownloader
     area_to_decorate.add_school(name, address, gender, start_leave_age, school_type, is_primary_school,
                                 overall_inspection_score, achievement_score, behaviour_score,
                                 teaching_score, leadership_score, inspection_date, distance,
-                                school_url, ofsted_link) unless already_downloaded
+                                school_url, ofsted_link) if already_downloaded.empty?
   end
 
   def extract_score(id_name)
