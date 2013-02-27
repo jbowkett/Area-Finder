@@ -62,10 +62,12 @@ class SchoolDownloader
     inspection_date = extract_inspection_date
     ofsted_link = extract_ofsted_link
 
+    already_downloaded = area_to_decorate.schools.select{|school|school.name == name}
+
     area_to_decorate.add_school(name, address, gender, start_leave_age, school_type, is_primary_school,
                                 overall_inspection_score, achievement_score, behaviour_score,
                                 teaching_score, leadership_score, inspection_date, distance,
-                                school_url, ofsted_link)
+                                school_url, ofsted_link) unless already_downloaded
   end
 
   def extract_score(id_name)
