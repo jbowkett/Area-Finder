@@ -7,9 +7,14 @@ class Area < ActiveRecord::Base
   has_many :journeys
   has_many :schools
   has_one :areaSummary
+  STATUS = {:AWAITING_SCHOOLS_DOWNLOAD => 'AWAITING SCHOOLS DOWNLOAD',
+            :DUPLICATE => 'DUPLICATE',
+            :SCHOOLS_DOWNLOAD_COMPLETE => 'SCHOOLS DOWNLOAD COMPLETE',
+            :SCHOOLS_DOWNLOAD_ERROR => 'SCHOOLS DOWNLOAD ERROR'
+  }
 
   def initialize(name, average_house_price)
-    super(:name => name, :average_house_price => average_house_price)
+    super(:name => name, :average_house_price => average_house_price, :status => STATUS[:AWAITING_SCHOOLS_DOWNLOAD])
   end
 
   def add_journey(destination_station, duration, changes, frequency)

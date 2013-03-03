@@ -36,6 +36,7 @@ class SchoolDownloader
       end
     else
       puts 'Cannot download from search url:[#{results_url}]'
+      area.status = STATUS[:SCHOOLS_DOWNLOAD_COMPLETE]
     end
   end
 

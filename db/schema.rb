@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130301202013) do
+ActiveRecord::Schema.define(:version => 20130303201731) do
 
   create_table "area_summaries", :force => true do |t|
     t.string  "name"
@@ -45,6 +45,7 @@ ActiveRecord::Schema.define(:version => 20130301202013) do
   create_table "areas", :force => true do |t|
     t.string  "name"
     t.integer "average_house_price"
+    t.string  "status",              :default => "AWAITING SCHOOLS DOWNLOAD"
   end
 
   create_table "journeys", :force => true do |t|

@@ -18,9 +18,10 @@ def download_schools
   school_downloader = SchoolDownloader.new
   AreaSummary.all.each do |area_summary|
     area = area_summary.area
-    if area_summary.include_in_school_search && area.schools.size < 40
+    if area_summary.include_in_school_search && area.status == STATUS[:AWAITING_SCHOOLS_DOWNLOAD]
       school_downloader.inspect_area(area)
       area_summary.include_in_school_search = false
+      area.status = STATUS[:SCHOOLS_DOWNLOAD_COMPLETE]
       area.save!
     end
   end
