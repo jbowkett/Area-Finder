@@ -32,6 +32,7 @@ class SchoolDownloader
 
       school_urls.each do |school_url|
         inspect_school(area_to_decorate, school_url, is_primary_results)
+        sleep(1+rand(30))
       end
     else
       puts 'Cannot download from search url:[#{results_url}]'

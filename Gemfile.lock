@@ -8,6 +8,8 @@ GEM
       rack (~> 1.1.3)
     activerecord (2.3.15)
       activesupport (= 2.3.15)
+    activerecord-nulldb-adapter (0.2.3)
+      activerecord (>= 2.0.0)
     activeresource (2.3.15)
       activesupport (= 2.3.15)
     activesupport (2.3.15)
@@ -23,6 +25,7 @@ GEM
       json
     childprocess (0.3.8)
       ffi (~> 1.0, >= 1.0.11)
+    diff-lcs (1.2.1)
     ffi (1.1.5)
     json (1.7.7)
     mime-types (1.21)
@@ -40,6 +43,14 @@ GEM
       activesupport (= 2.3.15)
       rake (>= 0.8.3)
     rake (0.9.3)
+    rspec (2.13.0)
+      rspec-core (~> 2.13.0)
+      rspec-expectations (~> 2.13.0)
+      rspec-mocks (~> 2.13.0)
+    rspec-core (2.13.0)
+    rspec-expectations (2.13.0)
+      diff-lcs (>= 1.1.3, < 2.0)
+    rspec-mocks (2.13.0)
     rubyzip (0.9.9)
     selenium-webdriver (2.29.0)
       childprocess (>= 0.2.5)
@@ -55,8 +66,10 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord (~> 2.3.15)
+  activerecord-nulldb-adapter
   capybara-webkit
   mysql (~> 2.8)
   rack (~> 1.1.3)
   rails (= 2.3.15)
   rake (= 0.9.3)
+  rspec

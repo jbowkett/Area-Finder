@@ -1,10 +1,12 @@
 require 'active_record'
 require_relative 'Journey'
 require_relative 'School'
+require_relative 'area_summary'
 
 class Area < ActiveRecord::Base
   has_many :journeys
   has_many :schools
+  has_one :areaSummary
 
   def initialize(name, average_house_price)
     super(:name => name, :average_house_price => average_house_price)
@@ -28,6 +30,18 @@ class Area < ActiveRecord::Base
                         date_of_most_recent_inspection,
                         distance, school_rm_url, ofsted_url)
     schools << school
+  end
+
+  def set_summary(shortest_journey)
+    summary = AreaSummary.new(name, average_house_price, shortest_journey.duration, shortest_journey.changes,
+                                  shortest_journey.frequency, shortest_journey.destination_station,
+                                  -1,-2,-3,-4,-5,
+                                  -1,-2,-3,-4,-5,
+                                  -1,-2,-3,-4,-5,
+                                  -1,-2,-3,-4,-5,
+                                  true
+    )
+    self.areaSummary = summary
   end
 
 end
