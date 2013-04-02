@@ -1,4 +1,5 @@
 require 'capybara'
+require 'app/models/area'
 class SchoolDownloader
   def initialize
     Capybara.javascript_driver = :webkit
@@ -13,7 +14,9 @@ class SchoolDownloader
   def inspect_area(area)
     area_name = area.name.gsub(/ /, '%20')
     inspect_search_results_url(area, "http://home.rm.com/schoolfinder/ShowSchools.aspx?l=#{area_name}&t=pri", true)
-    sleep(1+rand(300))
+    sleep = 1+rand(300)
+    puts "Sleeping for #{sleep} seconds."
+    sleep(sleep)
     inspect_search_results_url(area, "http://home.rm.com/schoolfinder/ShowSchools.aspx?l=#{area_name}&t=sec", false)
     puts "#{area.name} school inspector complete."
   end
@@ -33,11 +36,13 @@ class SchoolDownloader
 
       school_urls.each do |school_url|
         inspect_school(area_to_decorate, school_url, is_primary_results)
-        sleep(1+rand(2))
+        sleep = 1+rand(2)
+        puts "Sleeping for #{sleep} seconds."
+        sleep(sleep)
       end
     else
-      puts 'Cannot download from search url:[#{results_url}]'
-      area.status = STATUS[:SCHOOLS_DOWNLOAD_COMPLETE]
+      puts "Cannot download from search url:[#{results_url}]"
+      area_to_decorate.status = Area::STATUS[:SCHOOLS_DOWNLOAD_COMPLETE]
     end
   end
 
