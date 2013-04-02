@@ -13,6 +13,7 @@ class SchoolDownloader
   def inspect_area(area)
     area_name = area.name.gsub(/ /, '%20')
     inspect_search_results_url(area, "http://home.rm.com/schoolfinder/ShowSchools.aspx?l=#{area_name}&t=pri", true)
+    sleep(1+rand(300))
     inspect_search_results_url(area, "http://home.rm.com/schoolfinder/ShowSchools.aspx?l=#{area_name}&t=sec", false)
     puts "#{area.name} school inspector complete."
   end
@@ -32,7 +33,7 @@ class SchoolDownloader
 
       school_urls.each do |school_url|
         inspect_school(area_to_decorate, school_url, is_primary_results)
-        sleep(1+rand(30))
+        sleep(1+rand(2))
       end
     else
       puts 'Cannot download from search url:[#{results_url}]'
