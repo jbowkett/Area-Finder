@@ -1,7 +1,5 @@
-%select{:name => 'areas'}
-  -#%option{:value=> @my_object.color}
-  -#  = @my_object.color
-  -@areas.each do |c|
-    %option{:value=>c.name}
-      =h c.name
-
+%table
+  %tbody
+    -@areas.each do |area|
+      %tr
+        %td=link_to area.name, area_url(:id => area.id)
