@@ -1,0 +1,7 @@
+%select{:name => 'areas'}
+  -#%option{:value=> @my_object.color}
+  -#  = @my_object.color
+  -@areas.each do |c|
+    %option{:value=>c.name}
+      =h c.name
+
