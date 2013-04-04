@@ -6,7 +6,7 @@
     %td='£'+number_with_delimiter(@area.average_house_price).to_s
   %tr
     %td Status
-    %td=@area.status
+    %td=link_to @area.status, school_search_url(:id => @summary.id)
   %tr
     %td{:colspan => 2}=link_to 'Rightmove', "http://www.rightmove.co.uk/property-for-sale/search.html?searchLocation=#{@area.name}", :target=>'_tab'
   %tr
@@ -16,6 +16,8 @@
   %tr
     %td{:colspan => 2}=link_to 'Route to Jae\'s Parents', "https://maps.google.co.uk/maps?saddr=#{@area.name}&daddr=ss72tn", :target => '_tab'
 
+%p
+  =link_to '<< Back to Areas', :controller => 'areas'
 
 %h2 Journeys
 %table
@@ -52,7 +54,7 @@
   %tbody
     -@primary_schools.each do|school|
       %tr
-        %td=link_to school.name, school.school_rm_url
+        %td=link_to school.name, school.school_rm_url, :target => '_tab'
         %td=school.address
         %td=school.accepted_gender
         %td=school.start_leave_age
@@ -63,7 +65,7 @@
         %td=school.quality_of_leadership_score
         %td=school.date_of_most_recent_inspection
         %td=school.distance
-        %td=link_to 'Ofsted', school.ofsted_url
+        %td=link_to 'Ofsted', school.ofsted_url, :target => '_tab'
 
 %h2 Secondary Schools
 %table
@@ -84,7 +86,7 @@
   %tbody
     -@secondary_schools.each do|school|
       %tr
-        %td=link_to school.name, school.school_rm_url
+        %td=link_to school.name, school.school_rm_url, :target => '_tab'
         %td=school.address
         %td=school.accepted_gender
         %td=school.start_leave_age
@@ -95,7 +97,7 @@
         %td=school.quality_of_leadership_score
         %td=school.date_of_most_recent_inspection
         %td=school.distance
-        %td=link_to 'Ofsted', school.ofsted_url
+        %td=link_to 'Ofsted', school.ofsted_url, :target => '_tab'
 
 %p
   =link_to '<< Back to Areas', :controller => 'areas'
