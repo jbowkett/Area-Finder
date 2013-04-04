@@ -1,0 +1,101 @@
+%h1 Summary for #{@area.name}
+
+%table
+  %tr
+    %td Average house price
+    %td='£'+number_with_delimiter(@area.average_house_price).to_s
+  %tr
+    %td Status
+    %td=@area.status
+  %tr
+    %td{:colspan => 2}=link_to 'Rightmove', "http://www.rightmove.co.uk/property-for-sale/search.html?searchLocation=#{@area.name}", :target=>'_tab'
+  %tr
+    %td{:colspan => 2}=link_to 'Zoopla', "http://www.zoopla.co.uk/for-sale/houses/#{@area.name}/newest/?beds_min=3&include_retirement_homes=true&include_shared_accommodation=true&include_shared_ownership=true&new_homes=include&price_frequency=per_month&price_min=475000&property_type=houses&q=#{@area.name}&search_source=home", :target=>'_tab'
+  %tr
+    %td{:colspan => 2}=link_to 'Route to Rae\'s Parents', "https://maps.google.co.uk/maps?saddr=#{@area.name}&daddr=b798pf", :target => '_tab'
+  %tr
+    %td{:colspan => 2}=link_to 'Route to Jae\'s Parents', "https://maps.google.co.uk/maps?saddr=#{@area.name}&daddr=ss72tn", :target => '_tab'
+
+
+%h2 Journeys
+%table
+  %thead
+    %tr
+      %td Destination station
+      %td Duration
+      %td Frequency
+      %td Changes
+  %tbody
+    -@area.journeys.each do|journey|
+      %tr
+        %td=journey.destination_station
+        %td=journey.duration
+        %td=journey.frequency
+        %td=journey.changes
+
+%h2 Primary Schools
+%table
+  %thead
+    %tr
+      %td Name
+      %td Address
+      %td Gender
+      %td Start/Leave Age
+      %td Overall Grade
+      %td Achievement
+      %td Pupil Behaviour/Safety
+      %td Teaching Quality
+      %td Leadership Quality
+      %td Inspection Date
+      %td Distance
+      %td Ofsted Link
+  %tbody
+    -@primary_schools.each do|school|
+      %tr
+        %td=link_to school.name, school.school_rm_url
+        %td=school.address
+        %td=school.accepted_gender
+        %td=school.start_leave_age
+        %td=school.overall_inspection_grade_for_school_effectiveness_score
+        %td=school.achievement_score
+        %td=school.pupil_behaviour_and_safety_score
+        %td=school.quality_of_teaching_score
+        %td=school.quality_of_leadership_score
+        %td=school.date_of_most_recent_inspection
+        %td=school.distance
+        %td=link_to 'Ofsted', school.ofsted_url
+
+%h2 Secondary Schools
+%table
+  %thead
+    %tr
+      %td Name
+      %td Address
+      %td Gender
+      %td Start/Leave Age
+      %td Overall Grade
+      %td Achievement
+      %td Pupil Behaviour/Safety
+      %td Teaching Quality
+      %td Leadership Quality
+      %td Inspection Date
+      %td Distance
+      %td Ofsted Link
+  %tbody
+    -@secondary_schools.each do|school|
+      %tr
+        %td=link_to school.name, school.school_rm_url
+        %td=school.address
+        %td=school.accepted_gender
+        %td=school.start_leave_age
+        %td=school.overall_inspection_grade_for_school_effectiveness_score
+        %td=school.achievement_score
+        %td=school.pupil_behaviour_and_safety_score
+        %td=school.quality_of_teaching_score
+        %td=school.quality_of_leadership_score
+        %td=school.date_of_most_recent_inspection
+        %td=school.distance
+        %td=link_to 'Ofsted', school.ofsted_url
+
+%p
+  =link_to '<< Back to Areas', :controller => 'areas'
