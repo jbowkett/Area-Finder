@@ -9,6 +9,8 @@ ActionController::Routing::Routes.draw do |map|
 
   map.area 'area/:id', :controller => 'AreaView', :action => 'index'
 
+  map.school_search 'school_search/:id', :controller => 'SchoolSearch', :action => 'request_download'
+
   # Sample of named route:
   #   map.purchase 'products/:id/purchase', :controller => 'catalog', :action => 'purchase'
   # This route can be invoked with purchase_url(:id => product.id)
