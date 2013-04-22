@@ -4,6 +4,6 @@ class AddStatusCOlumnToAreas < ActiveRecord::Migration
   end
 
   def self.down
-    add_column :areas, :status
+    remove_column :areas, :status
   end
 end
