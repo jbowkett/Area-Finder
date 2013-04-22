@@ -20,8 +20,12 @@ def download_schools
     area = area_summary.area
     if area_summary.include_in_school_search && area.status == Area::STATUS[:AWAITING_SCHOOLS_DOWNLOAD]
       school_downloader.inspect_area(area)
+      if area.schools.size == 0
+        area.status = Area::STATUS[:NO_SCHOOLS_DOWNLOAD_ERROR]
+      else
+        area.status = Area::STATUS[:SCHOOLS_DOWNLOAD_COMPLETE]
+      end
       area_summary.include_in_school_search = false
-      area.status = Area::STATUS[:SCHOOLS_DOWNLOAD_COMPLETE]
       area.save!
     end
   end
