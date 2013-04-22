@@ -12,12 +12,11 @@ class SchoolDownloader
   end
 
   def inspect_area(area)
-    area_name = area.name.gsub(/ /, '%20')
-    inspect_search_results_url(area, "http://home.rm.com/schoolfinder/ShowSchools.aspx?l=#{area_name}&t=pri", true)
+    inspect_search_results_url(area, area.primary_search_url, true)
     sleep = 1+rand(300)
     puts "Sleeping for #{sleep} seconds."
     sleep(sleep)
-    inspect_search_results_url(area, "http://home.rm.com/schoolfinder/ShowSchools.aspx?l=#{area_name}&t=sec", false)
+    inspect_search_results_url(area, area.secondary_search_url, false)
     puts "#{area.name} school inspector complete."
   end
 
