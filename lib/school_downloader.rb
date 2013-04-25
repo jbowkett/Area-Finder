@@ -58,12 +58,12 @@ class SchoolDownloader
 
     @session.visit(school_url)
     puts 'School loaded.'
-    name = get_node_value(@session.find_by_id('content_lvSchoolDetails_lblSchoolName_0'))
-    distance = get_node_value(@session.find_by_id('content_lvSchoolDetails_lblDistanceFromSchool_0'))
-    address = get_node_value(@session.find_by_id('content_lvSchoolDetails_lblSchoolAddress_0'))
-    school_type = get_node_value(@session.find_by_id('content_lvSchoolDetails_lblSchoolType_0'))
-    gender = get_node_value(@session.find_by_id('content_lvSchoolDetails_lblSchoolGender_0'))
-    start_leave_age = get_node_value(@session.find_by_id('content_lvSchoolDetails_lblSchoolAgeRange_0'))
+    name = get_node_value(sympathetic_find_by_id('content_lvSchoolDetails_lblSchoolName_0'))
+    distance = get_node_value(sympathetic_find_by_id('content_lvSchoolDetails_lblDistanceFromSchool_0'))
+    address = get_node_value(sympathetic_find_by_id('content_lvSchoolDetails_lblSchoolAddress_0'))
+    school_type = get_node_value(sympathetic_find_by_id('content_lvSchoolDetails_lblSchoolType_0'))
+    gender = get_node_value(sympathetic_find_by_id('content_lvSchoolDetails_lblSchoolGender_0'))
+    start_leave_age = get_node_value(sympathetic_find_by_id('content_lvSchoolDetails_lblSchoolAgeRange_0'))
 
     overall_inspection_score = extract_score('content_lvQuestions_lvPerformanceIndicators_0_lblValueLabel_0')
     achievement_score = extract_score('content_lvQuestions_lvPerformanceIndicators_0_lblValueLabel_1')
@@ -80,6 +80,14 @@ class SchoolDownloader
                                 overall_inspection_score, achievement_score, behaviour_score,
                                 teaching_score, leadership_score, inspection_date, distance,
                                 school_url, ofsted_link) if already_downloaded.empty?
+  end
+
+  def sympathetic_find_by_id(string)
+    begin
+      @session.find_by_id(string)
+    rescue => e
+      puts "cannot find using id :[#{e.message}]"
+    end
   end
 
   def extract_score(id_name)
@@ -124,11 +132,16 @@ class SchoolDownloader
   end
 
   def get_node_value(node)
-    if (node.nil?)
-      ''
-    else
-      node.text
+    begin
+      if (node.nil?)
+        ''
+      else
+        node.text
+      end
+    rescue => e
+      puts "cannot get node value :[#{e.message}]"
     end
+
 
   end
 
