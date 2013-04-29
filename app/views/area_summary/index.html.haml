@@ -1,5 +1,15 @@
+%h2 Areas with schools
 %table
   %tbody
-    -@areas.each do |area|
-      %tr
-        %td=link_to area.name, area_url(:id => area.id)
+    -@areas_with_schools.each_with_index do |summary, index|
+      -if index %10 == 0
+        %tr
+      %td=link_to("#{summary.name} [#{summary.area.schools.size}]", area_url(:id => summary.id))
+
+%h2 Areas yet to be downloaded
+%table
+  %tbody
+    -@areas_yet_to_be_downloaded.each_with_index do |summary, index|
+      -if index %10 == 0
+        %tr
+      %td=link_to(summary.name, area_url(:id => summary.id))
