@@ -30,7 +30,8 @@ class AreaSummary < ActiveRecord::Base
       mean_secondary_pupil_behaviour_and_safety_score,
       mean_secondary_quality_of_teaching_score,
       mean_secondary_quality_of_leadership_score,
-      include_in_school_search
+      include_in_school_search,
+      school_count
   )
     super(
         :name => name,
@@ -59,7 +60,8 @@ class AreaSummary < ActiveRecord::Base
         :mean_secondary_pupil_behaviour_and_safety_score => mean_secondary_pupil_behaviour_and_safety_score,
         :mean_secondary_quality_of_teaching_score => mean_secondary_quality_of_teaching_score,
         :mean_secondary_quality_of_leadership_score => mean_secondary_quality_of_leadership_score,
-        :include_in_school_search => include_in_school_search
+        :include_in_school_search => include_in_school_search,
+        :school_count => school_count
     )
 
   end

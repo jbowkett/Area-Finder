@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130422195616) do
+ActiveRecord::Schema.define(:version => 20130805070240) do
 
   create_table "area_summaries", :force => true do |t|
     t.string  "name"
@@ -40,6 +40,7 @@ ActiveRecord::Schema.define(:version => 20130422195616) do
     t.float   "mean_secondary_quality_of_leadership_score"
     t.boolean "include_in_school_search"
     t.integer "area_id"
+    t.integer "school_count"
   end
 
   create_table "areas", :force => true do |t|

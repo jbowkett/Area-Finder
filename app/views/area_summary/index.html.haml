@@ -4,7 +4,7 @@
     -@areas_with_schools.each_with_index do |summary, index|
       -if index %10 == 0
         %tr
-      %td=link_to("#{summary.name} [#{summary.area.schools.size}]", area_url(:id => summary.id))
+      %td=link_to("#{summary.name} [#{summary.school_count}]", area_url(:id => summary.id))
 
 %h2 Areas yet to be downloaded
 %table
