@@ -3,18 +3,25 @@
 = javascript_include_tag 'tw-bootstrap/bootstrap.js'
 = stylesheet_link_tag 'tw-bootstrap/bootstrap.css'
 
-%h2 Areas with schools
-%table
-  %tbody
-    -@areas_with_schools.each_with_index do |summary, index|
-      -if index %10 == 0
-        %tr
-      %td=link_to("#{summary.name} [#{summary.school_count}]", area_url(:id => summary.id))
+%div{:class=>:container}
+  %div{:class=>:row}
+    %ul{:class => [:nav, "nav-tabs"]}
+      %li{:class=>:active}
+        = link_to('Areas', :controller => 'areas')
+      %li
+        = link_to('Somewhere else', :controller => 'areas')
+    %h2 Areas with schools
+    %table
+      %tbody
+        -@areas_with_schools.each_with_index do |summary, index|
+          -if index %10 == 0
+            %tr
+          %td=link_to("#{summary.name} [#{summary.school_count}]", area_url(:id => summary.id))
 
-%h2 Areas yet to be downloaded
-%table
-  %tbody
-    -@areas_yet_to_be_downloaded.each_with_index do |summary, index|
-      -if index %10 == 0
-        %tr
-      %td=link_to(summary.name, area_url(:id => summary.id))
+    %h2 Areas yet to be downloaded
+    %table
+      %tbody
+        -@areas_yet_to_be_downloaded.each_with_index do |summary, index|
+          -if index %10 == 0
+            %tr
+          %td=link_to(summary.name, area_url(:id => summary.id))
