@@ -24,10 +24,6 @@
       %tr
         %td{:colspan => 2}=link_to 'Zoopla - to buy', "http://www.zoopla.co.uk/for-sale/houses/#{@area.name}/newest/?beds_min=3&include_retirement_homes=true&include_shared_accommodation=true&include_shared_ownership=true&new_homes=include&price_frequency=per_month&price_min=475000&property_type=houses&q=#{@area.name}&search_source=home", :target=>'_tab'
       %tr
-        %td{:colspan => 2}=link_to 'Rightmove - to rent', "http://www.rightmove.co.uk/property-to-rent/search.html?searchLocation=#{@area.name}", :target=>'_tab'
-      %tr
-        %td{:colspan => 2}=link_to 'Zoopla - to rent', "http://www.zoopla.co.uk/to-rent/houses/#{@area.name}/newest/?beds_min=3&include_retirement_homes=true&include_shared_accommodation=true&include_shared_ownership=true&new_homes=include&price_frequency=per_month&price_min=475000&property_type=houses&q=#{@area.name}&search_source=home", :target=>'_tab'
-      %tr
         %td{:colspan => 2}=link_to 'Route to Rae\'s Parents', "https://maps.google.co.uk/maps?saddr=#{@area.name}&daddr=b798pf", :target => '_tab'
       %tr
         %td{:colspan => 2}=link_to 'Route to Jae\'s Parents', "https://maps.google.co.uk/maps?saddr=#{@area.name}&daddr=ss72tn", :target => '_tab'
