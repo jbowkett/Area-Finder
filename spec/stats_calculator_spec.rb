@@ -9,6 +9,10 @@ describe StatsCalculator do
     it 'should calculate median' do
       StatsCalculator.calculate_median(values).should == 5
     end
+
+    it 'should calculate mean' do
+      StatsCalculator.calculate_mean(values).should == 3.6666666666666665
+    end
   end
 
   context 'with 4 values' do
@@ -16,6 +20,10 @@ describe StatsCalculator do
 
     it 'should calculate median' do
       StatsCalculator.calculate_median(values).should == 3
+    end
+
+    it 'should calculate mean' do
+      StatsCalculator.calculate_mean(values).should == 3
     end
   end
 end

@@ -19,7 +19,7 @@ class StatsCalculator
 
   def self.calculate_mean(scores)
     total = scores.inject(0){|score, tally| tally+score}
-    return total/scores.length
+    return total.to_f/scores.length.to_f
   end
 
 end
