@@ -45,7 +45,8 @@ class Area < ActiveRecord::Base
                                   -1,-2,-3,-4,-5,
                                   -1,-2,-3,-4,-5,
                                   -1,-2,-3,-4,-5,
-                                  true
+                                  true,
+                                  schools.size
     )
     self.areaSummary = summary
   end
