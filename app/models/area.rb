@@ -41,14 +41,26 @@ class Area < ActiveRecord::Base
   def set_summary(shortest_journey)
     summary = AreaSummary.new(name, average_house_price, shortest_journey.duration, shortest_journey.changes,
                                   shortest_journey.frequency, shortest_journey.destination_station,
-                                  -1,-2,-3,-4,-5,
-                                  -1,-2,-3,-4,-5,
-                                  -1,-2,-3,-4,-5,
-                                  -1,-2,-3,-4,-5,
+                                  AreaSummariser.median_overall_inspection_grade_for_school_effectiveness_score_for(primary_schools),
+                                  -2,-3,-4,-5,
+                                  AreaSummariser.mean_overall_inspection_grade_for_school_effectiveness_score_for(primary_schools),
+                                  -2,-3,-4,-5,
+                                  AreaSummariser.median_overall_inspection_grade_for_school_effectiveness_score_for(secondary_schools),
+                                  -2,-3,-4,-5, #median
+                                  AreaSummariser.mean_overall_inspection_grade_for_school_effectiveness_score_for(secondary_schools),
+                                  -2,-3,-4,-5, #mean
                                   true,
                                   schools.size
     )
     self.areaSummary = summary
+  end
+
+  def primary_schools
+    schools.select(&:is_primary)
+  end
+
+  def secondary_schools
+    schools.reject(&:is_primary)
   end
 
 end

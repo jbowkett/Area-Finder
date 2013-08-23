@@ -1,3 +1,5 @@
+require 'stats_calculator'
+
 class AreaSummariser
 
   def self.set_summary_for(area)
@@ -12,5 +14,10 @@ class AreaSummariser
   def self.median_overall_inspection_grade_for_school_effectiveness_score_for(schools)
     scores = schools.collect(&:overall_inspection_grade_for_school_effectiveness_score)
     StatsCalculator.calculate_median(scores)
+  end
+
+  def self.mean_overall_inspection_grade_for_school_effectiveness_score_for(schools)
+    scores = schools.collect(&:overall_inspection_grade_for_school_effectiveness_score)
+    StatsCalculator.calculate_mean(scores)
   end
 end

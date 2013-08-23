@@ -15,7 +15,7 @@ describe AreaSummariser do
     end
   end
 
-  context "for 5 primary schools" do
+  context "for 5 schools" do
     let(:schools)  { [
         double(:school, :overall_inspection_grade_for_school_effectiveness_score => 1),
         double(:school, :overall_inspection_grade_for_school_effectiveness_score => 4),
@@ -25,6 +25,9 @@ describe AreaSummariser do
     ] }
     it "calculates the median overall overall inspection grade for school effectiveness score" do
       AreaSummariser.median_overall_inspection_grade_for_school_effectiveness_score_for(schools).should == 5
+    end
+    it "calculates the mean overall overall inspection grade for school effectiveness score" do
+      AreaSummariser.mean_overall_inspection_grade_for_school_effectiveness_score_for(schools).should == 4
     end
   end
 end
