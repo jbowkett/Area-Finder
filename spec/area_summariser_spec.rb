@@ -1,30 +1,19 @@
-require 'active_record'
 require "rspec"
-require 'nulldb_rspec'
-require 'nulldb/rails'
-include NullDB::RSpec::NullifiedDatabase
-ActiveRecord::Base.establish_connection :adapter => :nulldb,
-                                        :schema  => 'db/schema.rb'
 
-require_relative '../app/models/journey'
+require_relative '../lib/area_summariser.rb'
+describe AreaSummariser do
 
-describe "Summarisation" do
-
-  puts 'hello'
-      puts 'done.'
   let(:journeys) { [] }
   let(:schools)  { [] }
   let(:area)     { double(:area, :journeys => journeys, :schools => schools) }
   context "of journeys" do
-    shortest = Journey.new('Euston', 30, 0, 10)
-    let(:journeys) { [Journey.new('Euston', 31, 1, 5), shortest, Journey.new('Waterloo', 45, 0, 5)] }
-    subject(AreaSummariser)
+    let(:shortest)  { double(:journey, :destination_station => 'Euston', :duration => 30, :changes => 0, :frequency => 10) }
+    let(:longer)    { double(:journey, :destination_station => 'Euston', :duration => 31, :changes => 1, :frequency => 5) }
+    let(:longest)   { double(:journey, :destination_station => 'Waterloo', :duration => 45, :changes => 0, :frequency => 5) }
+    let(:journeys)  { [longer, shortest, longest] }
+
     it "should choose the shortest journey" do
-      area_summary = AreaSummariser.summarise(area)
-      area_summary.shortest_journey_duration.should == shortest.duration
-      area_summary.shortest_journey_changes.should == shortest.changes
-      area_summary.shortest_journey_frequency.should == shortest.frequency
-      area_summary.shortest_journey_destination_station.should == shortest.destination_station
+      AreaSummariser.shortest_journey(area).should == shortest
     end
 
   end
