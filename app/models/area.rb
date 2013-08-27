@@ -42,14 +42,28 @@ class Area < ActiveRecord::Base
     summary = AreaSummary.new(name, average_house_price, shortest_journey.duration, shortest_journey.changes,
                                   shortest_journey.frequency, shortest_journey.destination_station,
                                   AreaSummariser.median_overall_inspection_grade_for_school_effectiveness_score_for(primary_schools),
-                                  -2,-3,-4,-5,
+                                  AreaSummariser.median_achievement_score_for(primary_schools),
+                                  AreaSummariser.median_pupil_behaviour_and_safety_score_for(primary_schools),
+                                  AreaSummariser.median_quality_of_teaching_score_for(primary_schools),
+                                  AreaSummariser.median_quality_of_leadership_score_for(primary_schools),
                                   AreaSummariser.mean_overall_inspection_grade_for_school_effectiveness_score_for(primary_schools),
-                                  -2,-3,-4,-5,
+                                  AreaSummariser.mean_achievement_score_for(primary_schools),
+                                  AreaSummariser.mean_pupil_behaviour_and_safety_score_for(primary_schools),
+                                  AreaSummariser.mean_quality_of_teaching_score_for(primary_schools),
+                                  AreaSummariser.mean_quality_of_leadership_score_for(primary_schools),
+
                                   AreaSummariser.median_overall_inspection_grade_for_school_effectiveness_score_for(secondary_schools),
-                                  -2,-3,-4,-5, #median
+                                  AreaSummariser.median_achievement_score_for(secondary_schools),
+                                  AreaSummariser.median_pupil_behaviour_and_safety_score_for(secondary_schools),
+                                  AreaSummariser.median_quality_of_teaching_score_for(secondary_schools),
+                                  AreaSummariser.median_quality_of_leadership_score_for(secondary_schools),
                                   AreaSummariser.mean_overall_inspection_grade_for_school_effectiveness_score_for(secondary_schools),
-                                  -2,-3,-4,-5, #mean
-                                  true,
+                                  AreaSummariser.mean_achievement_score_for(secondary_schools),
+                                  AreaSummariser.mean_pupil_behaviour_and_safety_score_for(secondary_schools),
+                                  AreaSummariser.mean_quality_of_teaching_score_for(secondary_schools),
+                                  AreaSummariser.mean_quality_of_leadership_score_for(secondary_schools),
+
+                                  false,
                                   schools.size
     )
     self.areaSummary = summary
