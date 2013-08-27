@@ -1,4 +1,4 @@
-require 'stats_calculator'
+require_relative 'stats_calculator'
 
 class AreaSummariser
 
