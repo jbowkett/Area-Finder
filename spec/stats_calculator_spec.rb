@@ -51,4 +51,14 @@ describe StatsCalculator do
     end
   end
 
+  context 'with no values' do
+    let(:values){[]}
+    it 'should calculate a median of zero' do
+      StatsCalculator.calculate_median(values).should == 0
+    end
+    it 'should calculate a mean of zero' do
+      StatsCalculator.calculate_mean(values).should == 0
+    end
+  end
+
 end
