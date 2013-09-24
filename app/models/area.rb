@@ -66,6 +66,7 @@ class Area < ActiveRecord::Base
                               false,
                               schools.size
     )
+    self.areaSummary.delete unless self.areaSummary.nil?
     self.areaSummary = summary
   end
 
