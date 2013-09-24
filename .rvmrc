@@ -1,2 +1,2 @@
-rvm use --create 1.9.2@Area-Finder
+rvm use --create 1.9.3@Area-Finder
 
